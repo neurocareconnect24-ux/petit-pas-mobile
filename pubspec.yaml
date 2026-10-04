@@ -1,0 +1,46 @@
+name: neurocare_track_mobile
+description: "Application mobile de surveillance développementale (0-5 ans) et éducation parentale par NeuroCare Group / NeuroCare Connect."
+publish_to: 'none'
+version: 1.0.1+2
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  http: ^1.2.0
+  shared_preferences: ^2.2.2
+  provider: ^6.1.1
+  lucide_icons: ^0.257.0
+  intl: ^0.20.2
+  path_provider: ^2.1.2
+  audioplayers: ^6.0.0
+  flutter_tts: ^4.0.2
+  url_launcher: ^6.2.5
+  webview_flutter: ^4.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/logo.jpg"
+  min_sdk_size: 21 # android min sdk size: 21
+  web:
+    generate: true
+    image_path: "assets/logo.jpg"
+    background_color: "#ffffff"
+    theme_color: "#ffffff"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/content_fallback.json
+    - assets/logo_icon.jpg

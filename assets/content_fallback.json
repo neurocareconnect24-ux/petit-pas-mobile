@@ -1,0 +1,3736 @@
+{
+    "version": "ed2a515959c4",
+    "milestones": [
+        {
+            "id": "m_2m_soc_1",
+            "ageBracket": "2m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Sourire réponse : sourit lorsque vous lui parlez ou lui souriez",
+                "fon": "Nɔ ko nǔ e a ɖo xó ɖɔ nú i alǒ ko nǔ nú i e",
+                "yoruba": "N rẹrin musẹ nigbati o ba sọrọ si i tabi rẹrin musẹ si i"
+            }
+        },
+        {
+            "id": "m_2m_soc_2",
+            "ageBracket": "2m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Se calme quand vous lui parlez ou quand vous le prenez dans vos bras"
+            }
+        },
+        {
+            "id": "m_2m_soc_3",
+            "ageBracket": "2m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Regarde votre visage quand vous êtes près de lui"
+            },
+            "guidance": {
+                "fr": "Tenez votre visage à 20–30 cm du sien : c’est la distance à laquelle un bébé voit le mieux."
+            }
+        },
+        {
+            "id": "m_2m_soc_4",
+            "ageBracket": "2m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Semble content de vous voir quand vous vous approchez"
+            }
+        },
+        {
+            "id": "m_2m_lang_1",
+            "ageBracket": "2m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Émet des sons doux (gazouillis/« aah », « ooh ») en réponse à votre voix",
+                "fon": "Nɔ ɖɔ xó kpɛɖe (« aah », « ooh ») e a ɖɔ xó nú i e",
+                "yoruba": "N ṣe awọn iyẹn gbo (« aah », « ooh ») nigbati o ba sọrọ si i"
+            }
+        },
+        {
+            "id": "m_2m_lang_2",
+            "ageBracket": "2m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Réagit aux bruits forts (sursaute, cligne des yeux, s’arrête de bouger ou pleure)"
+            },
+            "guidance": {
+                "fr": "Frappez dans vos mains à côté de lui, hors de sa vue : un bébé qui entend réagit, même légèrement."
+            }
+        },
+        {
+            "id": "m_2m_cog_1",
+            "ageBracket": "2m",
+            "domain": "cognitive",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Vous suit du regard quand vous vous déplacez près de lui"
+            }
+        },
+        {
+            "id": "m_2m_cog_2",
+            "ageBracket": "2m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Fixe un objet (jouet, tissu coloré, visage) pendant plusieurs secondes"
+            }
+        },
+        {
+            "id": "m_2m_mg_1",
+            "ageBracket": "2m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tient sa tête relevée quelques instants lorsqu’il est couché sur le ventre",
+                "fon": "Nɔ sɔ ta tɔn dɔn hweɖenu e sɔ ɛ dɔ azɔn tɔn ji",
+                "yoruba": "Gbe ori rẹ soke fun igba diẹ nigbati o ba sùn lori inu rẹ"
+            },
+            "guidance": {
+                "fr": "Placez bébé sur le ventre 2 à 3 fois par jour pendant quelques minutes pendant l’éveil.",
+                "fon": "Sɔ vi ɔ dɔ azɔn tɔn ji xá 2 alǒ 3 ɖo gbeɖokpo mɛ.",
+                "yoruba": "Fi ọmọ rẹ sori inu rẹ lẹẹkeji tabi mẹta lojumọ."
+            }
+        },
+        {
+            "id": "m_2m_mg_2",
+            "ageBracket": "2m",
+            "domain": "motor_gross",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Bouge les deux bras et les deux jambes autant d’un côté que de l’autre"
+            },
+            "guidance": {
+                "fr": "Une différence nette et constante entre le côté droit et le côté gauche est à signaler à un soignant."
+            }
+        },
+        {
+            "id": "m_2m_mf_1",
+            "ageBracket": "2m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Ouvre les mains par moments (les poings ne restent pas serrés en permanence)"
+            }
+        },
+        {
+            "id": "m_4m_soc_1",
+            "ageBracket": "4m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Fait des petits rires (gloussements) quand vous essayez de le faire rire"
+            }
+        },
+        {
+            "id": "m_4m_soc_2",
+            "ageBracket": "4m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Sourit de lui-même pour attirer votre attention"
+            }
+        },
+        {
+            "id": "m_4m_soc_3",
+            "ageBracket": "4m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Vous regarde, bouge ou fait des sons pour attirer ou garder votre attention"
+            }
+        },
+        {
+            "id": "m_4m_lang_1",
+            "ageBracket": "4m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Tourne la tête vers la source d’un son ou de votre voix",
+                "fon": "Nɔ lé ta tɔn sɔ yi gbe tɔn mɛ",
+                "yoruba": "N yi ori rẹ si ibi ti ohun tabi ohun rẹ ti wa"
+            }
+        },
+        {
+            "id": "m_4m_lang_2",
+            "ageBracket": "4m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Gazouille en faisant des sons comme « oooh » ou « aaah »"
+            }
+        },
+        {
+            "id": "m_4m_lang_3",
+            "ageBracket": "4m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Vous « répond » avec des sons quand vous lui parlez"
+            }
+        },
+        {
+            "id": "m_4m_cog_1",
+            "ageBracket": "4m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Quand il a faim, ouvre la bouche en voyant le sein ou le biberon"
+            }
+        },
+        {
+            "id": "m_4m_cog_2",
+            "ageBracket": "4m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Regarde ses mains avec intérêt"
+            }
+        },
+        {
+            "id": "m_4m_mg_1",
+            "ageBracket": "4m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tient sa tête droite sans soutien lorsqu’il est tenu dans vos bras",
+                "fon": "Nɔ sɔ ta tɔn dɔn bonu mɛ ɖe na hen e a",
+                "yoruba": "N mu ori rẹ ni ti ko si iranlọwọ nigbati o wa ni arm rẹ"
+            }
+        },
+        {
+            "id": "m_4m_mg_2",
+            "ageBracket": "4m",
+            "domain": "motor_gross",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Couché sur le ventre, se soulève en appui sur les avant-bras"
+            }
+        },
+        {
+            "id": "m_4m_mf_1",
+            "ageBracket": "4m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tend la main pour attraper un jouet ou un objet placé près de lui",
+                "fon": "Nɔ dɔn alɔ bo na wlí nu e ɖo kpɔn tɔn ji e",
+                "yoruba": "N na ọwọ rẹ lati mu nkan ti o wa nitosi rẹ"
+            }
+        },
+        {
+            "id": "m_4m_mf_2",
+            "ageBracket": "4m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tient un objet quand vous le lui mettez dans la main (hochet, cuillère en bois)"
+            }
+        },
+        {
+            "id": "m_4m_mf_3",
+            "ageBracket": "4m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Porte ses mains à la bouche"
+            }
+        },
+        {
+            "id": "m_6m_soc_1",
+            "ageBracket": "6m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Reconnaît les visages familiers et réagit aux émotions des proches",
+                "fon": "Nɔ tuun mɛ e ɖo xwegbe lɛ bo nɔ jɛ ayijayɔ mɛ",
+                "yoruba": "N mọ awọn oju ti o mọ daradara ati n dahun si awọn eniyan"
+            }
+        },
+        {
+            "id": "m_6m_soc_2",
+            "ageBracket": "6m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Aime se regarder dans un miroir ou une surface brillante"
+            }
+        },
+        {
+            "id": "m_6m_soc_3",
+            "ageBracket": "6m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Rit aux éclats"
+            }
+        },
+        {
+            "id": "m_6m_lang_2",
+            "ageBracket": "6m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Fait des sons à tour de rôle avec vous (vous parlez, il répond, vous répondez)"
+            },
+            "guidance": {
+                "fr": "Parlez-lui puis taisez-vous quelques secondes en le regardant : laissez-lui le temps de « répondre »."
+            }
+        },
+        {
+            "id": "m_6m_lang_3",
+            "ageBracket": "6m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Fait des bruits de bouche (souffle en faisant vibrer les lèvres : « prrr »)"
+            }
+        },
+        {
+            "id": "m_6m_lang_4",
+            "ageBracket": "6m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Pousse des petits cris aigus de joie"
+            }
+        },
+        {
+            "id": "m_6m_cog_1",
+            "ageBracket": "6m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Met les objets à la bouche pour les découvrir"
+            }
+        },
+        {
+            "id": "m_6m_cog_2",
+            "ageBracket": "6m",
+            "domain": "cognitive",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Tend le bras pour attraper un objet qu’il veut"
+            }
+        },
+        {
+            "id": "m_6m_cog_3",
+            "ageBracket": "6m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Ferme la bouche ou détourne la tête pour montrer qu’il n’a plus faim"
+            }
+        },
+        {
+            "id": "m_6m_mg_1",
+            "ageBracket": "6m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Se retourne sur le dos ou sur le ventre de façon autonome",
+                "fon": "Nɔ lé azɔn bonu mɛ ɖe na d’alɔ ɛ a",
+                "yoruba": "N yi sori ẹyin tabi inu rẹ laisi iranlọwọ"
+            }
+        },
+        {
+            "id": "m_6m_mg_2",
+            "ageBracket": "6m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tient assis avec un léger soutien sur ses mains",
+                "fon": "Nɔ jinjɔn ayi bo sɔ alɔ tɔn do do",
+                "yoruba": "N rọra joko pẹlu iranlọwọ kekere lati ọwọ rẹ"
+            }
+        },
+        {
+            "id": "m_6m_mg_3",
+            "ageBracket": "6m",
+            "domain": "motor_gross",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Couché sur le ventre, se redresse en appui sur les bras tendus"
+            }
+        },
+        {
+            "id": "m_6m_mf_1",
+            "ageBracket": "6m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Passe un objet d’une main à l’autre (ex: hochet, gobelet plastique)",
+                "fon": "Nɔ sɔ nu sɔ yi alɔ ɖokpo mɛ yi ɖevo mɛ",
+                "yoruba": "N gbe nkan lati ọwọ kan si ekeji"
+            }
+        },
+        {
+            "id": "m_9m_soc_1",
+            "ageBracket": "9m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Joue à « coucou-caché » (se cacher le visage derrière un tissu/mains)",
+                "fon": "Nɔ xò aihun « hla-hla » kpo avɔ alǒ alɔ kpo",
+                "yoruba": "N ṣe ere « coucou-caché » pẹlu aṣọ tabi ọwọ"
+            }
+        },
+        {
+            "id": "m_9m_soc_2",
+            "ageBracket": "9m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Est timide, s’accroche à vous ou a peur devant les personnes qu’il ne connaît pas"
+            }
+        },
+        {
+            "id": "m_9m_soc_3",
+            "ageBracket": "9m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Montre plusieurs expressions du visage (joie, tristesse, colère, surprise)"
+            }
+        },
+        {
+            "id": "m_9m_soc_4",
+            "ageBracket": "9m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Réagit quand vous partez (vous cherche du regard, tend les bras ou pleure)"
+            }
+        },
+        {
+            "id": "m_9m_lang_1",
+            "ageBracket": "9m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Réagit à son prénom lorsqu’on l’appelle",
+                "fon": "Nɔ lé ta tɔn e a ylɔ nyíkɔ tɔn e",
+                "yoruba": "N dahun si orukọ rẹ nigbati o ba pe e"
+            },
+            "guidance": {
+                "fr": "Appelez-le d’une voix normale quand il ne vous regarde pas, sans bruit ni geste : se retourne-t-il ?"
+            }
+        },
+        {
+            "id": "m_9m_lang_2",
+            "ageBracket": "9m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Babille en répétant des syllabes (« mamama », « bababa », « dadada »)"
+            }
+        },
+        {
+            "id": "m_9m_lang_3",
+            "ageBracket": "9m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Lève les bras pour être porté"
+            }
+        },
+        {
+            "id": "m_9m_cog_1",
+            "ageBracket": "9m",
+            "domain": "cognitive",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Cherche des yeux un objet qu’il vient de faire tomber"
+            }
+        },
+        {
+            "id": "m_9m_cog_2",
+            "ageBracket": "9m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tape deux objets l’un contre l’autre"
+            }
+        },
+        {
+            "id": "m_9m_mg_1",
+            "ageBracket": "9m",
+            "domain": "motor_gross",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Tient assis tout seul, sans appui"
+            }
+        },
+        {
+            "id": "m_9m_mg_2",
+            "ageBracket": "9m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Arrive à s’asseoir tout seul (à partir de la position couchée ou à quatre pattes)"
+            }
+        },
+        {
+            "id": "m_9m_mf_1",
+            "ageBracket": "9m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Ramène vers lui de petits morceaux de nourriture avec les doigts (en « râteau »)"
+            }
+        },
+        {
+            "id": "m_12m_soc_2",
+            "ageBracket": "12m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Joue à des jeux d’échange avec vous (taper dans les mains, « bravo », chansons à gestes)"
+            }
+        },
+        {
+            "id": "m_12m_lang_1",
+            "ageBracket": "12m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Dit au moins 1 ou 2 mots simples avec sens (ex: « Maman », « Papa », « Au revoir »)",
+                "fon": "Nɔ ɖɔ xókpó alǒ we e ɖo tinmɛ (« Maman », « Papa »)",
+                "yoruba": "N sọ o kere ju ọrọ kan tabi meji pẹlu itumọ"
+            }
+        },
+        {
+            "id": "m_12m_lang_2",
+            "ageBracket": "12m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Pointe du doigt pour désigner un objet désiré ou montrer quelque chose",
+                "fon": "Nɔ fɔn alɔví do sɔ nu e e jro e",
+                "yoruba": "N tọka ika lati fi ohun ti o fẹ han"
+            }
+        },
+        {
+            "id": "m_12m_lang_3",
+            "ageBracket": "12m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Fait « au revoir » de la main"
+            }
+        },
+        {
+            "id": "m_12m_lang_4",
+            "ageBracket": "12m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Comprend « non » (s’arrête un instant ou arrête ce qu’il fait)"
+            }
+        },
+        {
+            "id": "m_12m_cog_1",
+            "ageBracket": "12m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Met un objet dans un récipient (un cube dans une boîte, une cuillère dans une calebasse)"
+            }
+        },
+        {
+            "id": "m_12m_cog_2",
+            "ageBracket": "12m",
+            "domain": "cognitive",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Cherche un objet qu’il vous a vu cacher (sous un tissu, derrière votre dos)"
+            }
+        },
+        {
+            "id": "m_12m_mg_1",
+            "ageBracket": "12m",
+            "domain": "motor_gross",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Se met debout en s’agrippant (à un meuble, à vos jambes)"
+            }
+        },
+        {
+            "id": "m_12m_mg_2",
+            "ageBracket": "12m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Marche en se tenant aux meubles ou à vos mains"
+            }
+        },
+        {
+            "id": "m_12m_mf_1",
+            "ageBracket": "12m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Pince supérieure (pouce + index) pour saisir un petit objet précis",
+                "fon": "Nɔ wlí nǔ kpɛví kpo alɔví náwe kpo alɔví nukɔntɔn kpo",
+                "yoruba": "N mu ohun kekere pẹlu ikannu ati ika iwaju"
+            }
+        },
+        {
+            "id": "m_12m_mf_2",
+            "ageBracket": "12m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Boit dans une tasse sans couvercle que vous tenez pour lui"
+            }
+        },
+        {
+            "id": "m_15m_soc_1",
+            "ageBracket": "15m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Imite les autres enfants quand il joue"
+            }
+        },
+        {
+            "id": "m_15m_soc_2",
+            "ageBracket": "15m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Vous montre un objet qu’il aime (vous l’apporte ou vous le tend pour que vous le regardiez)"
+            }
+        },
+        {
+            "id": "m_15m_soc_3",
+            "ageBracket": "15m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tape des mains quand il est content"
+            }
+        },
+        {
+            "id": "m_15m_soc_4",
+            "ageBracket": "15m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Montre son affection (câlins, bisous) à vous ou à une poupée, un tissu préféré"
+            }
+        },
+        {
+            "id": "m_15m_lang_1",
+            "ageBracket": "15m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Essaie de dire 1 ou 2 mots en plus de « maman » / « papa » (ex: « ba » pour ballon)"
+            }
+        },
+        {
+            "id": "m_15m_lang_2",
+            "ageBracket": "15m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Regarde un objet familier quand vous le nommez"
+            }
+        },
+        {
+            "id": "m_15m_lang_3",
+            "ageBracket": "15m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Suit une consigne donnée avec un geste et des mots (« Donne-moi » en tendant la main)"
+            }
+        },
+        {
+            "id": "m_15m_lang_4",
+            "ageBracket": "15m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Pointe du doigt pour demander quelque chose ou pour avoir de l’aide"
+            }
+        },
+        {
+            "id": "m_15m_cog_1",
+            "ageBracket": "15m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Essaie d’utiliser les objets comme il faut (téléphone à l’oreille, boire dans un gobelet, tourner un livre)"
+            }
+        },
+        {
+            "id": "m_15m_mg_1",
+            "ageBracket": "15m",
+            "domain": "motor_gross",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Fait quelques pas tout seul"
+            }
+        },
+        {
+            "id": "m_15m_mf_1",
+            "ageBracket": "15m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Empile au moins 2 petits objets ou cubes l’un sur l’autre",
+                "fon": "Nɔ sɔ nu we do nɔzo ji",
+                "yoruba": "N mu awọn akoko meji tabi awọn ohun lori ara wọn"
+            }
+        },
+        {
+            "id": "m_15m_mf_2",
+            "ageBracket": "15m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Mange seul avec ses doigts quelques aliments"
+            }
+        },
+        {
+            "id": "m_18m_soc_1",
+            "ageBracket": "18m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Imite les actions des adultes (ex: balayer, téléphoner, nourrir une poupée)",
+                "fon": "Nɔ wà nǔ e mɛxó lɛ nɔ wà e",
+                "yoruba": "N ṣe bi awọn alagba ṣe n ṣe"
+            }
+        },
+        {
+            "id": "m_18m_soc_2",
+            "ageBracket": "18m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "S’éloigne de vous mais vérifie du regard que vous êtes tout près"
+            }
+        },
+        {
+            "id": "m_18m_soc_3",
+            "ageBracket": "18m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Pointe du doigt pour vous montrer quelque chose d’intéressant (un oiseau, un avion)"
+            },
+            "guidance": {
+                "fr": "Ce pointage « pour partager » (et non pour obtenir) est un repère important de la communication."
+            }
+        },
+        {
+            "id": "m_18m_soc_4",
+            "ageBracket": "18m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Vous aide à l’habiller (passe le bras dans la manche, lève le pied)"
+            }
+        },
+        {
+            "id": "m_18m_soc_5",
+            "ageBracket": "18m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Regarde quelques pages d’un livre ou d’un cahier d’images avec vous"
+            }
+        },
+        {
+            "id": "m_18m_lang_1",
+            "ageBracket": "18m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Essaie de dire au moins 3 mots en plus de « maman » / « papa »"
+            },
+            "guidance": {
+                "fr": "Les mots peuvent être dans n’importe quelle langue parlée à la maison, et encore mal prononcés."
+            }
+        },
+        {
+            "id": "m_18m_lang_2",
+            "ageBracket": "18m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Suit une consigne simple sans geste (« Donne-moi la cuillère »)"
+            }
+        },
+        {
+            "id": "m_18m_cog_1",
+            "ageBracket": "18m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Joue simplement avec ses jouets (pousse une petite voiture, remplit une boîte)"
+            }
+        },
+        {
+            "id": "m_18m_mg_2",
+            "ageBracket": "18m",
+            "domain": "motor_gross",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Marche seul sans se tenir"
+            }
+        },
+        {
+            "id": "m_18m_mg_3",
+            "ageBracket": "18m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Monte et descend seul d’une chaise ou d’un banc bas"
+            }
+        },
+        {
+            "id": "m_18m_mf_1",
+            "ageBracket": "18m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Gribouille spontanément avec un crayon ou un bâtonnet sur du papier/sol",
+                "fon": "Nɔ wlan nu do wema alǒ kɔ mɛ",
+                "yoruba": "N kọ ohun kan sponte sponte pẹlu alagba tabi igi"
+            }
+        },
+        {
+            "id": "m_18m_mf_2",
+            "ageBracket": "18m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Essaie de manger avec une cuillère"
+            }
+        },
+        {
+            "id": "m_18m_mf_3",
+            "ageBracket": "18m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Boit dans une tasse sans couvercle, même s’il en renverse un peu"
+            }
+        },
+        {
+            "id": "m_24m_soc_1",
+            "ageBracket": "24m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Joue à côté d’autres enfants (jeu parallèle) et commence à manifester son indépendance",
+                "fon": "Nɔ xò aihun xá vi ɖevo lɛ",
+                "yoruba": "N ṣe ere nitosi awọn ọmọ miiran"
+            }
+        },
+        {
+            "id": "m_24m_soc_2",
+            "ageBracket": "24m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Remarque quand quelqu’un a mal ou est triste (s’arrête, regarde, semble triste lui aussi)"
+            }
+        },
+        {
+            "id": "m_24m_soc_3",
+            "ageBracket": "24m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Regarde votre visage pour savoir comment réagir face à une situation nouvelle"
+            }
+        },
+        {
+            "id": "m_24m_lang_1",
+            "ageBracket": "24m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Associe au moins 2 mots pour former des phrases simples (ex: « Encore lait », « Papa parti »)",
+                "fon": "Nɔ sɔ xó we do kpɔ (« Papa yi », « Nɔ no sin »)",
+                "yoruba": "N so ọrọ meji pọ lati ṣe gbolohun kukuru (« Papa lọ », « Fun mi omi »)"
+            }
+        },
+        {
+            "id": "m_24m_lang_2",
+            "ageBracket": "24m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Montre du doigt des images dans un livre quand vous demandez « Où est… ? »"
+            }
+        },
+        {
+            "id": "m_24m_lang_3",
+            "ageBracket": "24m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Montre au moins 2 parties de son corps quand vous le lui demandez"
+            }
+        },
+        {
+            "id": "m_24m_lang_4",
+            "ageBracket": "24m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Utilise d’autres gestes que pointer et faire au revoir (envoyer un bisou, hocher la tête pour dire oui)"
+            }
+        },
+        {
+            "id": "m_24m_cog_1",
+            "ageBracket": "24m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tient un objet d’une main et se sert de l’autre (tient une boîte et enlève le couvercle)"
+            }
+        },
+        {
+            "id": "m_24m_cog_2",
+            "ageBracket": "24m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Joue avec plusieurs objets à la fois (met de la « nourriture » dans l’assiette d’une poupée)"
+            }
+        },
+        {
+            "id": "m_24m_mg_1",
+            "ageBracket": "24m",
+            "domain": "motor_gross",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Court"
+            }
+        },
+        {
+            "id": "m_24m_mg_2",
+            "ageBracket": "24m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Donne un coup de pied dans un ballon"
+            }
+        },
+        {
+            "id": "m_24m_mg_3",
+            "ageBracket": "24m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Monte quelques marches en marchant (pas à quatre pattes), avec ou sans aide"
+            }
+        },
+        {
+            "id": "m_24m_mf_1",
+            "ageBracket": "24m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tourne la poignée d’une porte ou dévisse un bouchon de bouteille",
+                "fon": "Nɔ hun hɔn alǒ nɔ sù ahan go",
+                "yoruba": "N ṣii oju ilẹẹkun tabi yi fila igo kan"
+            }
+        },
+        {
+            "id": "m_24m_mf_2",
+            "ageBracket": "24m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Mange avec une cuillère"
+            }
+        },
+        {
+            "id": "m_30m_soc_1",
+            "ageBracket": "30m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Joue à côté des autres enfants et parfois avec eux"
+            }
+        },
+        {
+            "id": "m_30m_soc_2",
+            "ageBracket": "30m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Vous montre ce qu’il sait faire (« Regarde ! »)"
+            }
+        },
+        {
+            "id": "m_30m_soc_3",
+            "ageBracket": "30m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Suit des routines simples quand on le lui dit (ranger les jouets quand c’est l’heure)"
+            }
+        },
+        {
+            "id": "m_30m_lang_1",
+            "ageBracket": "30m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Utilise des mots comme « moi », « je » ou « nous »"
+            }
+        },
+        {
+            "id": "m_30m_lang_2",
+            "ageBracket": "30m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Dit environ 50 mots (toutes langues de la maison confondues)"
+            }
+        },
+        {
+            "id": "m_30m_lang_3",
+            "ageBracket": "30m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Associe 2 mots ou plus, dont un verbe (« Bébé dort », « Papa part »)"
+            }
+        },
+        {
+            "id": "m_30m_lang_4",
+            "ageBracket": "30m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Nomme les objets d’un livre ou d’une image quand vous les montrez et demandez « C’est quoi ? »"
+            }
+        },
+        {
+            "id": "m_30m_cog_1",
+            "ageBracket": "30m",
+            "domain": "cognitive",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Fait semblant avec des objets (donne un caillou à « manger » à une poupée)"
+            },
+            "guidance": {
+                "fr": "Le jeu de « faire semblant » est un repère important : notez s’il n’apparaît pas du tout."
+            }
+        },
+        {
+            "id": "m_30m_cog_2",
+            "ageBracket": "30m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Résout de petits problèmes (monte sur un tabouret pour attraper quelque chose)"
+            }
+        },
+        {
+            "id": "m_30m_cog_3",
+            "ageBracket": "30m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Suit une consigne en 2 étapes (« Pose le jouet et ferme la porte »)"
+            }
+        },
+        {
+            "id": "m_30m_cog_4",
+            "ageBracket": "30m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Connaît au moins une couleur (montre le rouge quand on le lui demande)"
+            }
+        },
+        {
+            "id": "m_30m_mg_1",
+            "ageBracket": "30m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Saute sur place à pieds joints",
+                "fon": "Nɔ lɔn kpo afɔ we lɛ kpo",
+                "yoruba": "N fo si oke lori awọn ẹsẹ mejeeji"
+            }
+        },
+        {
+            "id": "m_30m_mf_1",
+            "ageBracket": "30m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Trace une ligne verticale ou horizontale en imitant un modèle",
+                "fon": "Nɔ rɛn gblɔ do wema ji",
+                "yoruba": "N kọ ila inaro tabi ipele kan"
+            }
+        },
+        {
+            "id": "m_30m_mf_2",
+            "ageBracket": "30m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Enlève seul certains vêtements (culotte, t-shirt ample)"
+            }
+        },
+        {
+            "id": "m_30m_mf_3",
+            "ageBracket": "30m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tourne les pages d’un livre une par une"
+            }
+        },
+        {
+            "id": "m_36m_soc_1",
+            "ageBracket": "36m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Exprime une grande variété d’émotions"
+            }
+        },
+        {
+            "id": "m_36m_soc_2",
+            "ageBracket": "36m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Se calme en moins de 10 minutes après votre départ (garderie, chez un proche)"
+            }
+        },
+        {
+            "id": "m_36m_soc_3",
+            "ageBracket": "36m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Remarque les autres enfants et va jouer avec eux"
+            }
+        },
+        {
+            "id": "m_36m_lang_1",
+            "ageBracket": "36m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Tient une petite conversation avec vous (au moins 2 échanges aller-retour)"
+            }
+        },
+        {
+            "id": "m_36m_lang_2",
+            "ageBracket": "36m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Se fait comprendre la plupart du temps par des personnes qui ne le connaissent pas bien"
+            }
+        },
+        {
+            "id": "m_36m_lang_3",
+            "ageBracket": "36m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Pose des questions « qui ? », « quoi ? », « où ? » ou « pourquoi ? »"
+            }
+        },
+        {
+            "id": "m_36m_lang_4",
+            "ageBracket": "36m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Dit ce qui se passe sur une image (« Il court », « Elle mange »)"
+            }
+        },
+        {
+            "id": "m_36m_lang_5",
+            "ageBracket": "36m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Dit son prénom quand on le lui demande"
+            }
+        },
+        {
+            "id": "m_36m_cog_1",
+            "ageBracket": "36m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Dessine un rond après vous avoir vu le faire"
+            }
+        },
+        {
+            "id": "m_36m_cog_2",
+            "ageBracket": "36m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Évite de toucher un objet chaud quand vous l’avez prévenu"
+            }
+        },
+        {
+            "id": "m_36m_mg_1",
+            "ageBracket": "36m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Monte les marches en alternant les pieds (un pied par marche)"
+            }
+        },
+        {
+            "id": "m_36m_mf_1",
+            "ageBracket": "36m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Enfile de grosses perles ou des morceaux de pâtes sur une ficelle"
+            }
+        },
+        {
+            "id": "m_36m_mf_2",
+            "ageBracket": "36m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Met seul certains vêtements (pantalon large, veste, sandales)"
+            }
+        },
+        {
+            "id": "m_36m_mf_3",
+            "ageBracket": "36m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Mange seul proprement avec une cuillère ou une fourchette"
+            }
+        },
+        {
+            "id": "m_48m_soc_1",
+            "ageBracket": "48m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Fait semblant d’être quelqu’un d’autre en jouant (maîtresse, maman, vendeuse, animal)"
+            }
+        },
+        {
+            "id": "m_48m_soc_2",
+            "ageBracket": "48m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Demande à aller jouer avec d’autres enfants"
+            }
+        },
+        {
+            "id": "m_48m_soc_3",
+            "ageBracket": "48m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Console quelqu’un qui a mal ou qui est triste"
+            }
+        },
+        {
+            "id": "m_48m_soc_4",
+            "ageBracket": "48m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Évite les dangers (ne saute pas d’un endroit trop haut)"
+            }
+        },
+        {
+            "id": "m_48m_soc_5",
+            "ageBracket": "48m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Aime aider (« Je peux t’aider ? »)"
+            }
+        },
+        {
+            "id": "m_48m_soc_6",
+            "ageBracket": "48m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Adapte son comportement selon le lieu (lieu de culte, marché, cour de jeu)"
+            }
+        },
+        {
+            "id": "m_48m_lang_1",
+            "ageBracket": "48m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Raconte au moins une chose qui s’est passée pendant sa journée"
+            }
+        },
+        {
+            "id": "m_48m_lang_2",
+            "ageBracket": "48m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Fait des phrases de 4 mots ou plus"
+            }
+        },
+        {
+            "id": "m_48m_lang_3",
+            "ageBracket": "48m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Récite quelques mots d’une chanson, d’une comptine ou d’une histoire"
+            }
+        },
+        {
+            "id": "m_48m_lang_4",
+            "ageBracket": "48m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Répond à des questions simples (« À quoi sert un seau ? », « À quoi sert un crayon ? »)"
+            }
+        },
+        {
+            "id": "m_48m_cog_1",
+            "ageBracket": "48m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Nomme quelques couleurs"
+            }
+        },
+        {
+            "id": "m_48m_cog_2",
+            "ageBracket": "48m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Dit ce qui va se passer ensuite dans une histoire qu’il connaît bien"
+            }
+        },
+        {
+            "id": "m_48m_mg_1",
+            "ageBracket": "48m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Saute à cloche-pied sur un pied pendant quelques secondes",
+                "fon": "Nɔ lɔn kpo afɔ ɖokpo kpo",
+                "yoruba": "N fo lori ẹsẹ kan fun awọn aaya diẹ"
+            }
+        },
+        {
+            "id": "m_48m_mg_2",
+            "ageBracket": "48m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Attrape un gros ballon la plupart du temps"
+            }
+        },
+        {
+            "id": "m_48m_mf_1",
+            "ageBracket": "48m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Dessine un bonhomme avec au moins 3 parties du corps"
+            }
+        },
+        {
+            "id": "m_48m_mf_2",
+            "ageBracket": "48m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Se sert seul à manger ou verse de l’eau (sous surveillance)"
+            }
+        },
+        {
+            "id": "m_48m_mf_3",
+            "ageBracket": "48m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Défait quelques boutons"
+            }
+        },
+        {
+            "id": "m_48m_mf_4",
+            "ageBracket": "48m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tient le crayon entre les doigts et le pouce (pas à pleine main)"
+            }
+        },
+        {
+            "id": "m_60m_soc_1",
+            "ageBracket": "60m",
+            "domain": "social_personal",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Suit les règles ou attend son tour quand il joue avec d’autres enfants"
+            }
+        },
+        {
+            "id": "m_60m_soc_2",
+            "ageBracket": "60m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Chante, danse ou joue un rôle devant vous"
+            }
+        },
+        {
+            "id": "m_60m_soc_3",
+            "ageBracket": "60m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Fait de petites tâches à la maison (ranger les assiettes, trier le linge)"
+            }
+        },
+        {
+            "id": "m_60m_soc_4",
+            "ageBracket": "60m",
+            "domain": "social_personal",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Va aux toilettes seul pendant la journée"
+            }
+        },
+        {
+            "id": "m_60m_lang_2",
+            "ageBracket": "60m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Raconte une histoire entendue ou inventée avec au moins 2 événements"
+            }
+        },
+        {
+            "id": "m_60m_lang_3",
+            "ageBracket": "60m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Répond à des questions simples sur une histoire que vous venez de lui raconter"
+            }
+        },
+        {
+            "id": "m_60m_lang_4",
+            "ageBracket": "60m",
+            "domain": "language",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Entretient une conversation (plus de 3 échanges aller-retour)"
+            }
+        },
+        {
+            "id": "m_60m_lang_5",
+            "ageBracket": "60m",
+            "domain": "language",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Reconnaît ou trouve des rimes simples (« chat – rat », « ballon – bâton »)"
+            }
+        },
+        {
+            "id": "m_60m_cog_1",
+            "ageBracket": "60m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Compte jusqu’à 10"
+            }
+        },
+        {
+            "id": "m_60m_cog_2",
+            "ageBracket": "60m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Nomme quelques chiffres entre 1 et 5 quand vous les montrez"
+            }
+        },
+        {
+            "id": "m_60m_cog_3",
+            "ageBracket": "60m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Utilise des mots de temps (« hier », « demain », « le matin », « la nuit »)"
+            }
+        },
+        {
+            "id": "m_60m_cog_4",
+            "ageBracket": "60m",
+            "domain": "cognitive",
+            "isWatchItem": true,
+            "text": {
+                "fr": "Reste attentif 5 à 10 minutes pendant une activité (histoire, dessin, jeu)"
+            },
+            "guidance": {
+                "fr": "Les écrans (télévision, téléphone) ne comptent pas."
+            }
+        },
+        {
+            "id": "m_60m_cog_5",
+            "ageBracket": "60m",
+            "domain": "cognitive",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Nomme quelques lettres quand vous les montrez"
+            }
+        },
+        {
+            "id": "m_60m_mg_1",
+            "ageBracket": "60m",
+            "domain": "motor_gross",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Tient en équilibre sur un pied pendant quelques secondes"
+            }
+        },
+        {
+            "id": "m_60m_mf_1",
+            "ageBracket": "60m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Écrit quelques lettres de son prénom"
+            }
+        },
+        {
+            "id": "m_60m_mf_2",
+            "ageBracket": "60m",
+            "domain": "motor_fine",
+            "isWatchItem": false,
+            "text": {
+                "fr": "Boutonne quelques boutons"
+            }
+        }
+    ],
+    "activities": [
+        {
+            "id": "act_1",
+            "ageBracket": "2m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_2m_soc_1",
+                "m_2m_soc_3",
+                "m_2m_lang_1"
+            ],
+            "title": {
+                "fr": "Jeu du miroir et regards doux",
+                "fon": "Aihun mɛ-kpɔn-ɖo-nu-wuhwan mɛ",
+                "yoruba": "Ere awojijin ati oju tito"
+            },
+            "description": {
+                "fr": "Positionnez bébé en face de votre visage à environ 20-30 cm. Parlez-lui doucement avec de grands sourires et attendez 5 secondes sa réponse ou ses babillages.",
+                "fon": "Sɔ vi ɔ ɖo nukɔn towe bo ko nǔ bo ɖɔ xó fɛɛfɛɛ nú i.",
+                "yoruba": "Fi ọmọ rẹ sori oju rẹ ki o si sọrọ pẹlu musẹ."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel (votre visage et votre voix)"
+                ],
+                "fon": [
+                    "Aihun ɖe a (mɛtɔn gbe)"
+                ],
+                "yoruba": [
+                    "Ko si ohun elo (oju ati ohun rẹ)"
+                ]
+            },
+            "parentTip": {
+                "fr": "Les bébés adorent le visage humain ! C’est le premier stimulateur visuel et social.",
+                "fon": "Vi lɛ nɔ yí wǎn nú mɛ nukɔn tawun.",
+                "yoruba": "Awọn ọmọ wẹwẹ fẹran oju eniyan gidi."
+            },
+            "duration": {
+                "fr": "2 à 5 minutes, plusieurs fois par jour quand bébé est bien éveillé"
+            }
+        },
+        {
+            "id": "act_2m_tummy_chest",
+            "ageBracket": "2m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_2m_mg_1",
+                "m_2m_soc_3"
+            ],
+            "title": {
+                "fr": "Sur le ventre, contre votre poitrine"
+            },
+            "description": {
+                "fr": "Allongez-vous en position semi-assise et posez bébé à plat ventre sur votre poitrine. Appelez-le doucement : pour voir votre visage, il va essayer de relever la tête."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel"
+                ]
+            },
+            "parentTip": {
+                "fr": "Beaucoup de bébés n’aiment pas être sur le ventre au début. Contre vous, c’est plus rassurant : commencez par là."
+            },
+            "duration": {
+                "fr": "1 à 2 minutes, 3 à 5 fois par jour"
+            },
+            "harder": {
+                "fr": "Posez-le ensuite quelques instants à plat ventre sur un pagne au sol, face à vous."
+            },
+            "safety": {
+                "fr": "Uniquement quand bébé est éveillé et que vous le surveillez. Pour dormir, toujours sur le dos."
+            }
+        },
+        {
+            "id": "act_2m_follow_cloth",
+            "ageBracket": "2m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_2m_cog_1",
+                "m_2m_cog_2"
+            ],
+            "title": {
+                "fr": "Le foulard qui voyage"
+            },
+            "description": {
+                "fr": "Bébé couché sur le dos, tenez un tissu très coloré ou contrasté (noir et blanc, rouge vif) à 25 cm de ses yeux. Quand il le regarde, déplacez-le très lentement d’un côté, puis de l’autre."
+            },
+            "materials": {
+                "fr": [
+                    "Un foulard, un morceau de pagne aux couleurs vives"
+                ]
+            },
+            "parentTip": {
+                "fr": "Allez lentement : ses yeux apprennent encore à suivre. S’il détourne le regard, il est fatigué, faites une pause."
+            },
+            "duration": {
+                "fr": "1 à 2 minutes"
+            },
+            "harder": {
+                "fr": "Faites monter et descendre le tissu, ou faites un cercle."
+            }
+        },
+        {
+            "id": "act_2m_sound_hunt",
+            "ageBracket": "2m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_2m_lang_1",
+                "m_2m_lang_2"
+            ],
+            "title": {
+                "fr": "Conversation de gazouillis"
+            },
+            "description": {
+                "fr": "Quand bébé fait un son (« aah », « euh »), répétez-le en le regardant, puis attendez. Il va souvent refaire un son : c’est votre première conversation. Vous pouvez aussi secouer doucement une petite calebasse ou bouteille à graines à côté de lui pour voir s’il réagit."
+            },
+            "materials": {
+                "fr": [
+                    "Votre voix",
+                    "Une petite bouteille fermée contenant quelques graines (hochet maison)"
+                ]
+            },
+            "parentTip": {
+                "fr": "Parlez-lui dans la langue de la maison : toutes les langues nourrissent le langage."
+            },
+            "duration": {
+                "fr": "Pendant les soins : bain, change, tétée"
+            },
+            "safety": {
+                "fr": "Fermez bien la bouteille (scotch sur le bouchon) : les graines ne doivent jamais pouvoir sortir."
+            }
+        },
+        {
+            "id": "act_2m_hand_massage",
+            "ageBracket": "2m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_2m_mf_1",
+                "m_2m_mg_2"
+            ],
+            "title": {
+                "fr": "Massage des mains et des pieds"
+            },
+            "description": {
+                "fr": "Après le bain, avec un peu d’huile (karité, huile de palmiste), massez doucement ses bras, ses jambes, puis ouvrez ses doigts un par un en chantant. Faites les deux côtés de la même façon."
+            },
+            "materials": {
+                "fr": [
+                    "Un peu de beurre de karité ou d’huile pour bébé"
+                ]
+            },
+            "parentTip": {
+                "fr": "Le massage détend bébé et vous permet de remarquer s’il bouge ses deux côtés de la même façon."
+            },
+            "duration": {
+                "fr": "5 minutes, une fois par jour"
+            }
+        },
+        {
+            "id": "act_2",
+            "ageBracket": "4m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_4m_mg_1",
+                "m_4m_mg_2"
+            ],
+            "title": {
+                "fr": "Temps sur le ventre joyeux",
+                "fon": "Hwe azɔn ji nɔ nùkon",
+                "yoruba": "Akoko sori inu pẹlu ayọ"
+            },
+            "description": {
+                "fr": "Allongez le bébé sur le ventre sur un pagne ou une couverture propre. Placez un objet coloré (un morceau de tissu brillant ou une gourde) juste devant ses yeux pour l’encourager à lever la tête.",
+                "fon": "Mɛ vi ɔ do azɔn ji do avɔ ji bo sɔ nu cyakpan ɖo nukɔn tɔn.",
+                "yoruba": "Fi ọmọ rẹ sori aṣọ ti o mọ ki o fi nkan ti o ni awọ han an."
+            },
+            "materials": {
+                "fr": [
+                    "Un pagne/tapis propre",
+                    "Un tissu vif ou une boîte colorée"
+                ],
+                "fon": [
+                    "Avɔ mɛ́",
+                    "Nu cyakpan"
+                ],
+                "yoruba": [
+                    "Aṣọ ti o mọ",
+                    "Ohun ti o ni awọ"
+                ]
+            },
+            "parentTip": {
+                "fr": "Le temps sur le ventre renforce les muscles du cou, du dos et des épaules.",
+                "fon": "É nɔ na hlɔnhlɔn kɔ kpo zĩn kpo.",
+                "yoruba": "O n fun ọrùn ati ẹhin ni agbara."
+            },
+            "duration": {
+                "fr": "3 à 5 minutes, plusieurs fois par jour (au total 30 minutes par jour)"
+            },
+            "easier": {
+                "fr": "Glissez un petit pagne roulé sous sa poitrine pour l’aider à se soulever."
+            },
+            "safety": {
+                "fr": "Toujours sous votre surveillance, jamais pour dormir."
+            }
+        },
+        {
+            "id": "act_4m_grasp",
+            "ageBracket": "4m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_4m_mf_1",
+                "m_4m_mf_2",
+                "m_4m_mf_3"
+            ],
+            "title": {
+                "fr": "Attrape le hochet"
+            },
+            "description": {
+                "fr": "Placez un hochet ou une cuillère en bois dans sa main et laissez-le le tenir, le secouer, le porter à la bouche. Ensuite, tenez l’objet juste au-dessus de sa poitrine pour qu’il tende les bras vers lui."
+            },
+            "materials": {
+                "fr": [
+                    "Hochet, anneau en bois, cuillère en bois propre"
+                ]
+            },
+            "parentTip": {
+                "fr": "Mettre à la bouche est normal à cet âge : c’est sa façon d’explorer."
+            },
+            "duration": {
+                "fr": "5 minutes"
+            },
+            "harder": {
+                "fr": "Présentez l’objet un peu sur le côté pour qu’il tourne le buste en tendant la main."
+            },
+            "safety": {
+                "fr": "Objets plus gros que sa bouche, sans pièce qui se détache, lavés régulièrement."
+            }
+        },
+        {
+            "id": "act_4m_talk_turns",
+            "ageBracket": "4m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_4m_lang_1",
+                "m_4m_lang_2",
+                "m_4m_lang_3"
+            ],
+            "title": {
+                "fr": "Chacun son tour de parole"
+            },
+            "description": {
+                "fr": "Parlez à bébé, puis taisez-vous en le regardant avec un air intéressé. Quand il gazouille, répondez-lui (« Ah oui ? Tu me racontes ça ! »). Appelez-le aussi doucement d’un côté, puis de l’autre, pour qu’il tourne la tête vers votre voix."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel"
+                ]
+            },
+            "parentTip": {
+                "fr": "Ces « conversations » sans mots sont la base de la parole : c’est vous qui lui apprenez à attendre son tour."
+            },
+            "duration": {
+                "fr": "Quelques minutes, à chaque moment calme de la journée"
+            }
+        },
+        {
+            "id": "act_4m_tickles",
+            "ageBracket": "4m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_4m_soc_1",
+                "m_4m_soc_2",
+                "m_4m_soc_3"
+            ],
+            "title": {
+                "fr": "La petite bête qui monte"
+            },
+            "description": {
+                "fr": "Faites « marcher » vos doigts de ses pieds jusqu’à son cou en chantant une comptine, puis finissez par une chatouille légère. Répétez : il va commencer à anticiper et à rire."
+            },
+            "materials": {
+                "fr": [
+                    "Une comptine en fon, yoruba ou français"
+                ]
+            },
+            "parentTip": {
+                "fr": "Si bébé détourne la tête ou pleure, c’est qu’il en a assez : arrêtez et câlinez-le."
+            },
+            "duration": {
+                "fr": "2 à 3 minutes"
+            }
+        },
+        {
+            "id": "act_4m_hands_look",
+            "ageBracket": "4m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_4m_cog_2",
+                "m_4m_mf_3"
+            ],
+            "title": {
+                "fr": "Mains et pieds décorés"
+            },
+            "description": {
+                "fr": "Attachez sans serrer un petit ruban coloré ou une chaussette de couleur vive à son poignet ou à son pied. Bébé va découvrir qu’en bougeant, il fait bouger la couleur."
+            },
+            "materials": {
+                "fr": [
+                    "Ruban, chaussette ou bracelet en tissu coloré"
+                ]
+            },
+            "parentTip": {
+                "fr": "Il comprend peu à peu que ses mains et ses pieds lui appartiennent et qu’il peut agir."
+            },
+            "duration": {
+                "fr": "5 minutes, sous surveillance"
+            },
+            "safety": {
+                "fr": "Rien de serré, rien de petit qu’il pourrait avaler ; retirez-le après le jeu."
+            }
+        },
+        {
+            "id": "act_3",
+            "ageBracket": "6m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_6m_mf_1",
+                "m_6m_cog_2",
+                "m_9m_cog_2"
+            ],
+            "title": {
+                "fr": "Transvasement de gobelets en plastique",
+                "fon": "Sɔ sin bo d’e do go mɛ",
+                "yoruba": "Aṣa gbigbe omi ninu awọn cốc"
+            },
+            "description": {
+                "fr": "Donnez à l’enfant 2 gobelets ou bols légers en plastique (ou calebasses). Laissez-le taper les deux objets l’un contre l’autre ou passer un morceau d’étoffe de l’un à l’autre.",
+                "fon": "Sɔ gàn kpɛví alǒ go plastic we nú vi ɔ bo nɔ xò po do nɔzo ji.",
+                "yoruba": "Fun ọmọ rẹ ni cup meji ti plastic ki o jẹ ki o kọ wọn pọ."
+            },
+            "materials": {
+                "fr": [
+                    "2 gobelets ou calebasses en plastique",
+                    "Tissu ou eau propre"
+                ],
+                "fon": [
+                    "Gobelet plastic we",
+                    "Avɔ alǒ sin"
+                ],
+                "yoruba": [
+                    "Igbá tabi cốc plastic meji",
+                    "Aṣọ tabi omi"
+                ]
+            },
+            "parentTip": {
+                "fr": "Développe la coordination des deux mains et la découverte des sons.",
+                "fon": "É nɔ zɔn bɔ alɔ we lɛ nɔ wazɔ do kpɔ.",
+                "yoruba": "O n ṣe iranlọwọ fun lilo awọn ọwọ mejeeji."
+            },
+            "duration": {
+                "fr": "5 à 10 minutes"
+            }
+        },
+        {
+            "id": "act_6m_roll",
+            "ageBracket": "6m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_6m_mg_1",
+                "m_6m_mg_2",
+                "m_6m_mg_3"
+            ],
+            "title": {
+                "fr": "Rouler sur le pagne"
+            },
+            "description": {
+                "fr": "Bébé sur le dos sur un pagne au sol, montrez-lui un jouet puis posez-le sur le côté, un peu hors de portée : il va se tourner pour l’attraper. Ensuite, asseyez-le entre vos jambes pour qu’il s’appuie sur ses mains."
+            },
+            "materials": {
+                "fr": [
+                    "Un pagne étalé au sol",
+                    "Un jouet qu’il aime"
+                ]
+            },
+            "parentTip": {
+                "fr": "Le sol est le meilleur terrain d’entraînement : limitez le temps passé au dos ou dans un siège."
+            },
+            "duration": {
+                "fr": "10 minutes, plusieurs fois par jour"
+            },
+            "easier": {
+                "fr": "Aidez le mouvement en guidant doucement sa hanche."
+            },
+            "safety": {
+                "fr": "Au sol uniquement, jamais sur un lit ou une table d’où il pourrait tomber."
+            }
+        },
+        {
+            "id": "act_6m_mouth_sounds",
+            "ageBracket": "6m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_6m_lang_2",
+                "m_6m_lang_3",
+                "m_6m_lang_4"
+            ],
+            "title": {
+                "fr": "Concert de bouche"
+            },
+            "description": {
+                "fr": "Faites devant lui des bruits amusants : « prrr » avec les lèvres, claquements de langue, petits cris aigus, « ba ba ba ». Attendez qu’il essaie de vous imiter, puis imitez-le à votre tour."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel"
+                ]
+            },
+            "parentTip": {
+                "fr": "Imiter ses sons lui montre que ce qu’il « dit » compte pour vous."
+            },
+            "duration": {
+                "fr": "3 à 5 minutes"
+            }
+        },
+        {
+            "id": "act_6m_mirror",
+            "ageBracket": "6m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_6m_soc_1",
+                "m_6m_soc_2",
+                "m_6m_soc_3"
+            ],
+            "title": {
+                "fr": "Qui est dans le miroir ?"
+            },
+            "description": {
+                "fr": "Tenez bébé devant un miroir ou une surface brillante (vitre, casserole propre). Montrez-le du doigt : « C’est qui ? C’est [prénom] ! », puis montrez-vous : « Et là, c’est maman ! ». Faites des grimaces et des sourires."
+            },
+            "materials": {
+                "fr": [
+                    "Un miroir ou une surface qui reflète"
+                ]
+            },
+            "parentTip": {
+                "fr": "Il ne se reconnaît pas encore, mais il adore ce bébé souriant qui bouge avec lui."
+            },
+            "duration": {
+                "fr": "3 à 5 minutes"
+            }
+        },
+        {
+            "id": "act_6m_discovery_basket",
+            "ageBracket": "6m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_6m_cog_1",
+                "m_6m_cog_2"
+            ],
+            "title": {
+                "fr": "Le panier aux trésors"
+            },
+            "description": {
+                "fr": "Mettez dans une bassine ou un panier 4 à 6 objets de la maison de textures différentes : cuillère en bois, petite calebasse, balle en tissu, brosse douce, boîte en métal propre. Laissez-le choisir, toucher, secouer, goûter."
+            },
+            "materials": {
+                "fr": [
+                    "Un panier ou une bassine",
+                    "4 à 6 objets sûrs de la maison"
+                ]
+            },
+            "parentTip": {
+                "fr": "Changez les objets chaque semaine : la nouveauté entretient sa curiosité."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            },
+            "safety": {
+                "fr": "Aucun objet assez petit pour entrer dans un rouleau de papier toilette, pas de sac plastique, pas de pile."
+            }
+        },
+        {
+            "id": "act_4",
+            "ageBracket": "9m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_9m_lang_2",
+                "m_12m_lang_2",
+                "m_15m_lang_2"
+            ],
+            "title": {
+                "fr": "Jeu du \"Chut... Regarde !\"",
+                "fon": "Aihun « Ðo tó... Kpɔn ! »",
+                "yoruba": "Ere « Dake... Wo ! »"
+            },
+            "description": {
+                "fr": "Nommez à voix haute tout ce que l’enfant regarde (ex: « Regarde, le chat ! », « Écoute, l’oiseau », « C’est la cuillère ») en pointant du doigt.",
+                "fon": "Ylɔ nu e vi ɔ ɖo kkpɔn e nyíkɔ kpo alɔví fɔn- do-sɔ kpo.",
+                "yoruba": "Sọ orukọ ohun ti ọmọ n wo lẹnu pẹlu tọka ika."
+            },
+            "materials": {
+                "fr": [
+                    "Objets du quotidien (cuillère, animaux, arbres)"
+                ],
+                "fon": [
+                    "Nu e ɖo xwegbe lɛ"
+                ],
+                "yoruba": [
+                    "Awọn ohun elo ile ti o wa lẹgbẹ rẹ"
+                ]
+            },
+            "parentTip": {
+                "fr": "Associer le mot au geste de pointage enrichit la compréhension du langage.",
+                "fon": "Mɛɖee sɔ alɔví do fɔn nu e nɔ zɔn bɔ vi nɔ se xó blesi.",
+                "yoruba": "Tọka ika n ṣe iranlọwọ fun agbọye ọrọ."
+            },
+            "duration": {
+                "fr": "À tout moment : promenade, marché, repas"
+            }
+        },
+        {
+            "id": "act_9m_name_arms",
+            "ageBracket": "9m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_9m_lang_1",
+                "m_9m_lang_3"
+            ],
+            "title": {
+                "fr": "Appel du prénom et bras tendus"
+            },
+            "description": {
+                "fr": "Appelez-le par son prénom quand il ne vous regarde pas et récompensez-le d’un grand sourire quand il se tourne. Avant de le prendre, tendez les bras et demandez « On se lève ? » : attendez qu’il lève les bras à son tour."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel"
+                ]
+            },
+            "parentTip": {
+                "fr": "Utilisez toujours le même prénom ou surnom pour qu’il l’apprenne vite."
+            },
+            "duration": {
+                "fr": "Tout au long de la journée"
+            }
+        },
+        {
+            "id": "act_9m_peekaboo",
+            "ageBracket": "9m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_9m_soc_1",
+                "m_9m_soc_3",
+                "m_9m_soc_4"
+            ],
+            "title": {
+                "fr": "Coucou-caché avec le pagne"
+            },
+            "description": {
+                "fr": "Cachez votre visage derrière un pagne : « Où est maman ? »… puis « Coucou ! ». Ensuite, posez le tissu sur sa tête et laissez-le le retirer lui-même."
+            },
+            "materials": {
+                "fr": [
+                    "Un pagne ou un foulard léger"
+                ]
+            },
+            "parentTip": {
+                "fr": "Ce jeu l’aide aussi à comprendre que vous revenez toujours quand vous partez."
+            },
+            "duration": {
+                "fr": "5 minutes"
+            }
+        },
+        {
+            "id": "act_9m_hidden_toy",
+            "ageBracket": "9m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_9m_cog_1",
+                "m_12m_cog_2"
+            ],
+            "title": {
+                "fr": "Où est passé le jouet ?"
+            },
+            "description": {
+                "fr": "Sous ses yeux, cachez à moitié un jouet sous un tissu, en laissant dépasser un bout. Demandez « Où est-il ? ». Quand il le trouve facilement, cachez-le entièrement."
+            },
+            "materials": {
+                "fr": [
+                    "Un jouet",
+                    "Un tissu ou un bol retourné"
+                ]
+            },
+            "parentTip": {
+                "fr": "Il apprend qu’un objet continue d’exister même quand il ne le voit plus."
+            },
+            "duration": {
+                "fr": "5 minutes"
+            },
+            "harder": {
+                "fr": "Utilisez deux tissus et cachez le jouet sous l’un d’eux."
+            }
+        },
+        {
+            "id": "act_9m_sit_reach",
+            "ageBracket": "9m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_9m_mg_1",
+                "m_9m_mg_2"
+            ],
+            "title": {
+                "fr": "Assis au milieu des jouets"
+            },
+            "description": {
+                "fr": "Asseyez-le au sol sur un pagne et disposez quelques jouets autour de lui, un peu hors de portée, devant et sur les côtés. Il va se pencher, se rattraper, puis essayer de se mettre à quatre pattes pour les atteindre."
+            },
+            "materials": {
+                "fr": [
+                    "Un pagne",
+                    "3 ou 4 jouets ou objets de la maison"
+                ]
+            },
+            "parentTip": {
+                "fr": "Le laisser se débrouiller au sol (plutôt que dans les bras ou au dos) renforce son équilibre."
+            },
+            "duration": {
+                "fr": "10 à 15 minutes"
+            },
+            "easier": {
+                "fr": "Placez un coussin derrière lui pour amortir les chutes."
+            }
+        },
+        {
+            "id": "act_9m_finger_food",
+            "ageBracket": "9m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_9m_mf_1",
+                "m_12m_mf_1"
+            ],
+            "title": {
+                "fr": "Picorer dans l’assiette"
+            },
+            "description": {
+                "fr": "Pendant le repas, posez devant lui quelques petits morceaux d’aliments très mous (banane, igname bien cuite, avocat, pain trempé). Laissez-le les attraper seul avec ses doigts."
+            },
+            "materials": {
+                "fr": [
+                    "Une assiette",
+                    "Aliments mous coupés en petits morceaux"
+                ]
+            },
+            "parentTip": {
+                "fr": "Il en mettra partout : c’est normal, c’est ainsi qu’il apprend à manger seul."
+            },
+            "duration": {
+                "fr": "Pendant un repas par jour"
+            },
+            "safety": {
+                "fr": "Toujours assis, surveillé. Pas d’arachides ou de grains entiers, pas d’aliments durs ou ronds (raisin entier)."
+            }
+        },
+        {
+            "id": "act_5",
+            "ageBracket": "12m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_12m_mg_1",
+                "m_12m_mg_2",
+                "m_15m_mg_1"
+            ],
+            "title": {
+                "fr": "Pousse-pousse avec un carton ou un panier",
+                "fon": "Sisɛ cardboard alǒ gàn-vɔ",
+                "yoruba": "Titari apoti tabi agbọn"
+            },
+            "description": {
+                "fr": "Mettez un petit poids (ex: quelques livres ou bouteilles en plastique remplies d’eau) dans un carton propre pour stabiliser. Laissez l’enfant le pousser dans la pièce.",
+                "fon": "Sɔ nu d’e do cardboard mɛ bo sɔ nú vi ɔ na sísɛ́.",
+                "yoruba": "Fi ohun ti o wuwo diẹ sori apoti ki ọmọ rẹ ba le ti i."
+            },
+            "materials": {
+                "fr": [
+                    "Un grand carton solide ou bassine",
+                    "Bouteilles d’eau plastique"
+                ],
+                "fon": [
+                    "Cardboard daxo",
+                    "Go sin tɔn"
+                ],
+                "yoruba": [
+                    "Apoti tabi agbọn nla",
+                    "Igo omi plastic"
+                ]
+            },
+            "parentTip": {
+                "fr": "Renforce l’équilibre et la confiance lors des premiers pas.",
+                "fon": "É nɔ na hlɔnhlɔn afɔ azɔn dote tɔn.",
+                "yoruba": "O n fun iranlọwọ fun atilẹyin irin rẹ."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            },
+            "easier": {
+                "fr": "Posez des jouets sur un banc bas pour qu’il s’y agrippe et se mette debout."
+            },
+            "safety": {
+                "fr": "Dégagez le sol et éloignez-le des marches, du feu et des marmites."
+            }
+        },
+        {
+            "id": "act_12m_fill_empty",
+            "ageBracket": "12m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_12m_cog_1",
+                "m_12m_cog_2"
+            ],
+            "title": {
+                "fr": "Remplir et vider la calebasse"
+            },
+            "description": {
+                "fr": "Donnez-lui une calebasse ou une boîte et quelques objets assez gros (cuillères en bois, bouchons de gros bidon, balles en tissu). Montrez-lui comment les mettre dedans, puis tout renverser. Recommencez !"
+            },
+            "materials": {
+                "fr": [
+                    "Une calebasse, une boîte ou une bassine",
+                    "4 à 6 objets assez gros"
+                ]
+            },
+            "parentTip": {
+                "fr": "Remplir et vider, c’est comprendre « dedans » et « dehors » : des notions de base pour la suite."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            },
+            "safety": {
+                "fr": "Objets trop gros pour être avalés."
+            }
+        },
+        {
+            "id": "act_12m_self_feeding",
+            "ageBracket": "12m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_12m_mf_1",
+                "m_12m_mf_2"
+            ],
+            "title": {
+                "fr": "Petit repas autonome"
+            },
+            "description": {
+                "fr": "Laissez-le attraper seul des petits morceaux mous entre le pouce et l’index. Proposez-lui de l’eau dans une petite tasse ouverte que vous tenez avec lui."
+            },
+            "materials": {
+                "fr": [
+                    "Petits morceaux d’aliments mous",
+                    "Une petite tasse sans couvercle"
+                ]
+            },
+            "parentTip": {
+                "fr": "Mettez peu d’eau dans la tasse au début : il renversera moins et essaiera plus volontiers."
+            },
+            "duration": {
+                "fr": "Pendant les repas"
+            },
+            "safety": {
+                "fr": "Toujours assis et surveillé pendant qu’il mange."
+            }
+        },
+        {
+            "id": "act_12m_gestures",
+            "ageBracket": "12m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_12m_lang_1",
+                "m_12m_lang_3",
+                "m_12m_lang_4"
+            ],
+            "title": {
+                "fr": "Au revoir, bravo et non"
+            },
+            "description": {
+                "fr": "Faites les gestes avec les mots à chaque occasion : « au revoir » de la main quand quelqu’un part, « bravo » en tapant des mains, « non » en secouant la tête. Dites des mots courts et répétez-les : « Papa ! », « Eau ! »."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel"
+                ]
+            },
+            "parentTip": {
+                "fr": "Les gestes viennent souvent avant les mots : un enfant qui fait des gestes se prépare à parler."
+            },
+            "duration": {
+                "fr": "Tout au long de la journée"
+            }
+        },
+        {
+            "id": "act_12m_choose_point",
+            "ageBracket": "12m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_12m_lang_2",
+                "m_15m_lang_4"
+            ],
+            "title": {
+                "fr": "Qu’est-ce que tu veux ?"
+            },
+            "description": {
+                "fr": "Tenez deux aliments ou deux jouets hors de sa portée et demandez « Tu veux lequel ? ». Attendez qu’il tende la main ou pointe. Montrez-lui à pointer du doigt, puis donnez-lui ce qu’il a choisi en le nommant."
+            },
+            "materials": {
+                "fr": [
+                    "Deux aliments ou deux jouets"
+                ]
+            },
+            "parentTip": {
+                "fr": "N’anticipez pas tous ses besoins : lui laisser le temps de demander l’encourage à communiquer."
+            },
+            "duration": {
+                "fr": "2 à 3 minutes, pendant le repas ou le jeu"
+            }
+        },
+        {
+            "id": "act_12m_clap_song",
+            "ageBracket": "12m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_12m_soc_2",
+                "m_15m_soc_3"
+            ],
+            "title": {
+                "fr": "Tape, tape petites mains"
+            },
+            "description": {
+                "fr": "Asseyez-vous face à face et chantez une chanson à gestes en tapant dans vos mains, puis dans les siennes. Arrêtez-vous au milieu et attendez : va-t-il vous faire signe de continuer ?"
+            },
+            "materials": {
+                "fr": [
+                    "Une chanson à gestes connue dans la famille"
+                ]
+            },
+            "parentTip": {
+                "fr": "Ces jeux d’échange lui apprennent le « chacun son tour », base de toute relation."
+            },
+            "duration": {
+                "fr": "5 minutes"
+            }
+        },
+        {
+            "id": "act_15m_first_steps",
+            "ageBracket": "15m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_15m_mg_1",
+                "m_18m_mg_2"
+            ],
+            "title": {
+                "fr": "Viens dans mes bras !"
+            },
+            "description": {
+                "fr": "Accroupissez-vous à un ou deux pas de lui, bras ouverts, pendant qu’il se tient debout contre un meuble. Encouragez-le à venir. Reculez un peu à chaque réussite."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel"
+                ]
+            },
+            "parentTip": {
+                "fr": "Pieds nus, il sent mieux le sol et trouve plus facilement son équilibre."
+            },
+            "duration": {
+                "fr": "5 à 10 minutes"
+            },
+            "safety": {
+                "fr": "Sol dégagé et sans objets tranchants ; loin du feu de cuisine."
+            }
+        },
+        {
+            "id": "act_15m_tower",
+            "ageBracket": "15m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_15m_mf_1",
+                "m_15m_mf_2"
+            ],
+            "title": {
+                "fr": "La tour qui tombe"
+            },
+            "description": {
+                "fr": "Construisez devant lui une tour avec des boîtes (allumettes vides, cubes de bois, petites boîtes de conserve propres et sans bord coupant). Laissez-le la faire tomber, puis aidez-le à poser une boîte sur une autre."
+            },
+            "materials": {
+                "fr": [
+                    "4 à 6 petites boîtes ou cubes"
+                ]
+            },
+            "parentTip": {
+                "fr": "Faire tomber la tour est aussi amusant que la construire : c’est normal !"
+            },
+            "duration": {
+                "fr": "10 minutes"
+            },
+            "harder": {
+                "fr": "Essayez 3 puis 4 boîtes."
+            }
+        },
+        {
+            "id": "act_15m_give_me",
+            "ageBracket": "15m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_15m_lang_1",
+                "m_15m_lang_2",
+                "m_15m_lang_3"
+            ],
+            "title": {
+                "fr": "Donne-moi…"
+            },
+            "description": {
+                "fr": "Mettez 2 ou 3 objets familiers devant lui (cuillère, balle, chaussure). Tendez la main : « Donne-moi la cuillère ». Quand il vous la donne, remerciez-le et nommez-la encore."
+            },
+            "materials": {
+                "fr": [
+                    "2 ou 3 objets familiers"
+                ]
+            },
+            "parentTip": {
+                "fr": "Au début, aidez-le en regardant ou en montrant l’objet. Retirez ensuite l’aide petit à petit."
+            },
+            "duration": {
+                "fr": "5 minutes"
+            },
+            "harder": {
+                "fr": "Demandez sans tendre la main ni regarder l’objet."
+            }
+        },
+        {
+            "id": "act_15m_show_me",
+            "ageBracket": "15m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_15m_soc_2",
+                "m_15m_soc_4",
+                "m_18m_soc_3"
+            ],
+            "title": {
+                "fr": "Oh, montre-moi !"
+            },
+            "description": {
+                "fr": "Chaque fois qu’il vous apporte ou vous montre un objet, arrêtez-vous, regardez-le, puis regardez l’objet et nommez-le avec enthousiasme : « Oh ! Une plume ! Elle est douce ! »."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel"
+                ]
+            },
+            "parentTip": {
+                "fr": "Partager son intérêt avec vous est une étape clé de la communication sociale : montrez-lui que vous y prêtez attention."
+            },
+            "duration": {
+                "fr": "Tout au long de la journée"
+            }
+        },
+        {
+            "id": "act_15m_real_objects",
+            "ageBracket": "15m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_15m_cog_1",
+                "m_15m_soc_1",
+                "m_18m_soc_1"
+            ],
+            "title": {
+                "fr": "Comme les grands"
+            },
+            "description": {
+                "fr": "Donnez-lui de vrais objets sans danger : un peigne, un gobelet, un vieux téléphone éteint, un livre. Montrez-lui à quoi ils servent (se coiffer, boire, « allô ? ») et laissez-le vous imiter."
+            },
+            "materials": {
+                "fr": [
+                    "Peigne, gobelet, vieux téléphone sans batterie, livre"
+                ]
+            },
+            "parentTip": {
+                "fr": "Imiter, c’est apprendre : il observe tout ce que vous faites."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            },
+            "safety": {
+                "fr": "Retirez la batterie des vieux téléphones et télécommandes."
+            }
+        },
+        {
+            "id": "act_6",
+            "ageBracket": "18m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_18m_lang_1",
+                "m_24m_lang_3"
+            ],
+            "title": {
+                "fr": "Comptines et chansons à gestes",
+                "fon": "Han kpo alɔ-ɖe-sɔ kpo",
+                "yoruba": "Orin ati ere ọwọ"
+            },
+            "description": {
+                "fr": "Chantez une comptine traditionnelle (ex: « Ainsi font, font, font », ou une chanson locale en Fon/Yoruba) en faisant les gestes avec vos mains. Invitez l’enfant à vous imiter.",
+                "fon": "Ji han xwegbe tɔn kpo alɔ-da-ɖo-nu kpo.",
+                "yoruba": "Kọ orin ibilẹ ki o ṣe ere pẹlu awọn ọwọ rẹ."
+            },
+            "materials": {
+                "fr": [
+                    "Chansons et comptines locales"
+                ],
+                "fon": [
+                    "Han lɛ"
+                ],
+                "yoruba": [
+                    "Awọn orin ibilẹ"
+                ]
+            },
+            "parentTip": {
+                "fr": "Le rythme et les répétitions gestuelles stimulent l’apprentissage de la parole.",
+                "fon": "Han nɔ zɔn bɔ vi lɛ nɔ ɖɔ xó yayà.",
+                "yoruba": "Orin n ṣe iranlọwọ fun sisọrọ ni kiakia."
+            },
+            "duration": {
+                "fr": "5 minutes, tous les jours"
+            },
+            "harder": {
+                "fr": "Arrêtez-vous avant le dernier mot et laissez-le le dire."
+            }
+        },
+        {
+            "id": "act_18m_picture_book",
+            "ageBracket": "18m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_18m_lang_2",
+                "m_18m_soc_5",
+                "m_24m_lang_2"
+            ],
+            "title": {
+                "fr": "Le cahier d’images maison"
+            },
+            "description": {
+                "fr": "Collez dans un cahier des images découpées (magazines, emballages, photos de la famille). Regardez-le ensemble, nommez les images, puis demandez « Où est le chien ? » et laissez-le montrer."
+            },
+            "materials": {
+                "fr": [
+                    "Un vieux cahier",
+                    "Images découpées, colle ou riz cuit écrasé"
+                ]
+            },
+            "parentTip": {
+                "fr": "Pas besoin de livres achetés : des photos de ses proches et d’objets familiers l’intéressent encore plus."
+            },
+            "duration": {
+                "fr": "5 minutes, par exemple avant de dormir"
+            }
+        },
+        {
+            "id": "act_18m_little_helper",
+            "ageBracket": "18m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_18m_soc_1",
+                "m_18m_soc_4",
+                "m_18m_soc_2"
+            ],
+            "title": {
+                "fr": "Le petit aide de la maison"
+            },
+            "description": {
+                "fr": "Donnez-lui un petit balai ou un chiffon pendant que vous faites le ménage. À l’habillage, demandez-lui de « passer le bras » ou de « lever le pied »."
+            },
+            "materials": {
+                "fr": [
+                    "Petit balai, chiffon"
+                ]
+            },
+            "parentTip": {
+                "fr": "Félicitez l’effort plutôt que le résultat : il se sent utile et fier."
+            },
+            "duration": {
+                "fr": "Pendant les tâches du quotidien"
+            }
+        },
+        {
+            "id": "act_18m_pull_toy",
+            "ageBracket": "18m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_18m_cog_1",
+                "m_18m_mg_2"
+            ],
+            "title": {
+                "fr": "La boîte qui se promène"
+            },
+            "description": {
+                "fr": "Attachez une ficelle à une boîte ou une petite bouteille pour en faire un jouet à tirer, ou fabriquez une petite voiture avec une boîte. Montrez-lui comment la tirer en marchant ou la pousser en faisant « vroum »."
+            },
+            "materials": {
+                "fr": [
+                    "Une boîte en carton ou une bouteille",
+                    "Une ficelle courte"
+                ]
+            },
+            "parentTip": {
+                "fr": "Tirer un jouet en marchant l’entraîne à coordonner ses mouvements et à penser à deux choses à la fois."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            },
+            "safety": {
+                "fr": "Ficelle de moins de 30 cm, jamais autour du cou ; retirez le jouet après le jeu."
+            }
+        },
+        {
+            "id": "act_18m_climb",
+            "ageBracket": "18m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_18m_mg_2",
+                "m_18m_mg_3"
+            ],
+            "title": {
+                "fr": "Petit parcours de la maison"
+            },
+            "description": {
+                "fr": "Installez un petit parcours : marcher jusqu’au banc bas, monter dessus, redescendre, passer sous une table, aller jusqu’à vous."
+            },
+            "materials": {
+                "fr": [
+                    "Un banc bas ou un tabouret stable",
+                    "Une table"
+                ]
+            },
+            "parentTip": {
+                "fr": "Montrez-lui d’abord comment descendre à reculons, sur le ventre : c’est la façon la plus sûre."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            },
+            "safety": {
+                "fr": "Toujours à côté de lui ; rien de haut, rien de bancal."
+            }
+        },
+        {
+            "id": "act_18m_scribble",
+            "ageBracket": "18m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_18m_mf_1",
+                "m_18m_mf_2",
+                "m_18m_mf_3"
+            ],
+            "title": {
+                "fr": "Premiers gribouillis"
+            },
+            "description": {
+                "fr": "Donnez-lui une craie grasse ou un gros crayon et une grande feuille (carton déplié, papier d’emballage) posée au sol. Gribouillez à côté de lui et laissez-le faire librement."
+            },
+            "materials": {
+                "fr": [
+                    "Craie ou gros crayon",
+                    "Carton ou grand papier"
+                ]
+            },
+            "parentTip": {
+                "fr": "Au repas, laissez-lui aussi sa propre cuillère : tenir un crayon et une cuillère, ce sont les mêmes muscles."
+            },
+            "duration": {
+                "fr": "5 à 10 minutes"
+            }
+        },
+        {
+            "id": "act_7",
+            "ageBracket": "24m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_18m_mf_1",
+                "m_30m_mf_1",
+                "m_36m_cog_1"
+            ],
+            "title": {
+                "fr": "Dessin au bâtonnet dans le sable ou à la craie",
+                "fon": "Nǔ-ɖe-do-kɔ-mɛ",
+                "yoruba": "Kika aworan sori iyanrin tabi chalk"
+            },
+            "description": {
+                "fr": "En extérieur ou sur une ardoise, montrez à l’enfant comment faire un grand trait vertical ou un rond avec un petit bâton dans le sable fin.",
+                "fon": "Rɛn gblɔ do ke/kɔ mɛ kpo atín kpɛví kpo.",
+                "yoruba": "Fa ila tabi circle sori iyanrin pẹlu igi kekere."
+            },
+            "materials": {
+                "fr": [
+                    "Sable propre, terre ou papier",
+                    "Bâtonnet ou morceau de craie"
+                ],
+                "fon": [
+                    "Kɔ mɛ́",
+                    "Atín kpɛví"
+                ],
+                "yoruba": [
+                    "Iyanrin tabi aṣọ",
+                    "Igi kekere tabi chalk"
+                ]
+            },
+            "parentTip": {
+                "fr": "Développe la tenue des doigts et la précision graphique sans coût matériel.",
+                "fon": "É nɔ zɔn bɔ alɔví lɛ nɔ syɛn do wema wlan mɛ.",
+                "yoruba": "O n ṣe iranlọwọ fun lilo awọn ika ọwọ pẹlu irọrun."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            },
+            "safety": {
+                "fr": "Bâtonnet court et sans pointe, sable propre (sans excréments d’animaux)."
+            }
+        },
+        {
+            "id": "act_24m_surprise_boxes",
+            "ageBracket": "24m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_24m_cog_1",
+                "m_24m_mf_1"
+            ],
+            "title": {
+                "fr": "Les boîtes à surprise"
+            },
+            "description": {
+                "fr": "Cachez un petit objet dans des pots ou bouteilles avec couvercle à visser ou à retirer. Il doit tenir le pot d’une main et ouvrir de l’autre pour trouver la surprise."
+            },
+            "materials": {
+                "fr": [
+                    "Pots et bouteilles en plastique avec couvercles",
+                    "Petits objets à cacher (assez gros pour ne pas être avalés)"
+                ]
+            },
+            "parentTip": {
+                "fr": "Commencez par des couvercles faciles, puis passez aux bouchons à visser."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            }
+        },
+        {
+            "id": "act_24m_cloth_ball",
+            "ageBracket": "24m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_24m_mg_1",
+                "m_24m_mg_2",
+                "m_24m_mg_3"
+            ],
+            "title": {
+                "fr": "Foot avec le ballon en pagne"
+            },
+            "description": {
+                "fr": "Fabriquez un ballon en roulant des chiffons dans un sac plastique, puis en l’enveloppant d’un pagne ficelé. Jouez à taper dedans avec le pied, à courir après, à le rapporter."
+            },
+            "materials": {
+                "fr": [
+                    "Chiffons, un sac, un vieux pagne, de la ficelle"
+                ]
+            },
+            "parentTip": {
+                "fr": "Montrez-lui à s’arrêter devant le ballon avant de taper : l’équilibre sur un pied se travaille ainsi."
+            },
+            "duration": {
+                "fr": "15 minutes, dehors si possible"
+            },
+            "harder": {
+                "fr": "Tracez un « but » entre deux cailloux."
+            }
+        },
+        {
+            "id": "act_24m_body_song",
+            "ageBracket": "24m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_24m_lang_1",
+                "m_24m_lang_3",
+                "m_24m_lang_4"
+            ],
+            "title": {
+                "fr": "Où est ton nez ? et « un mot de plus »"
+            },
+            "description": {
+                "fr": "Chantez en touchant les parties du corps (« tête, épaules, genoux, pieds »). Puis demandez « Où est ton nez ? ». Toute la journée, ajoutez un mot à ce qu’il dit : s’il dit « lait », répondez « Encore lait ! » ou « Lait chaud ! »."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel"
+                ]
+            },
+            "parentTip": {
+                "fr": "Ne le faites pas répéter : dites simplement la bonne forme, il l’entendra et la reprendra plus tard."
+            },
+            "duration": {
+                "fr": "Tout au long de la journée"
+            }
+        },
+        {
+            "id": "act_24m_doll_hurt",
+            "ageBracket": "24m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_24m_soc_2",
+                "m_24m_soc_3",
+                "m_24m_cog_2"
+            ],
+            "title": {
+                "fr": "La poupée a mal"
+            },
+            "description": {
+                "fr": "Avec une poupée ou un tissu roulé, faites semblant qu’elle pleure : « Oh, elle est triste ! Elle a mal au pied. » Proposez-lui de la consoler, de lui faire un bisou, de lui donner à manger dans une petite assiette."
+            },
+            "materials": {
+                "fr": [
+                    "Une poupée ou un tissu roulé",
+                    "Une petite assiette, une cuillère"
+                ]
+            },
+            "parentTip": {
+                "fr": "Mettre des mots sur les émotions (triste, content, peur) l’aide à les reconnaître chez lui et chez les autres."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            }
+        },
+        {
+            "id": "act_30m_frog",
+            "ageBracket": "30m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_30m_mg_1"
+            ],
+            "title": {
+                "fr": "Saute, petite grenouille !"
+            },
+            "description": {
+                "fr": "Faites la grenouille ensemble : accroupis, puis sautez en l’air les deux pieds en même temps en criant « Hop ! ». Ensuite, sautez par-dessus un bâton posé au sol ou d’une petite marche."
+            },
+            "materials": {
+                "fr": [
+                    "Un bâton ou une corde posé au sol"
+                ]
+            },
+            "parentTip": {
+                "fr": "Tenez-lui les deux mains au début pour qu’il ose décoller ses pieds."
+            },
+            "duration": {
+                "fr": "5 à 10 minutes"
+            },
+            "safety": {
+                "fr": "Sur un sol souple (sable, terre), jamais d’une hauteur de plus d’une marche."
+            }
+        },
+        {
+            "id": "act_30m_undress",
+            "ageBracket": "30m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_30m_mf_2",
+                "m_30m_mf_3"
+            ],
+            "title": {
+                "fr": "Je me déshabille tout seul"
+            },
+            "description": {
+                "fr": "Avant le bain, laissez-le enlever seul sa culotte ou son t-shirt ample ; aidez seulement la fin du geste. Pendant la lecture, laissez-le tourner les pages une par une."
+            },
+            "materials": {
+                "fr": [
+                    "Vêtements amples",
+                    "Un livre ou cahier d’images"
+                ]
+            },
+            "parentTip": {
+                "fr": "Prévoyez un peu plus de temps : se débrouiller seul le rend fier et autonome."
+            },
+            "duration": {
+                "fr": "Pendant les routines du bain et du coucher"
+            }
+        },
+        {
+            "id": "act_30m_who_does_what",
+            "ageBracket": "30m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_30m_lang_1",
+                "m_30m_lang_2",
+                "m_30m_lang_3",
+                "m_30m_lang_4"
+            ],
+            "title": {
+                "fr": "Qui fait quoi ?"
+            },
+            "description": {
+                "fr": "Pendant que vous cuisinez ou marchez, décrivez les actions : « Maman coupe l’oignon », « Le chien court ». Dans un livre ou dehors, demandez « Qu’est-ce qu’il fait ? » et « C’est quoi ? »."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel",
+                    "Un livre d’images si possible"
+                ]
+            },
+            "parentTip": {
+                "fr": "Posez des questions ouvertes (« Qu’est-ce que… ? ») plutôt que des questions où il suffit de dire oui ou non."
+            },
+            "duration": {
+                "fr": "Tout au long de la journée"
+            }
+        },
+        {
+            "id": "act_30m_pretend_kitchen",
+            "ageBracket": "30m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_30m_cog_1",
+                "m_30m_soc_1",
+                "m_30m_cog_2"
+            ],
+            "title": {
+                "fr": "La petite cuisine"
+            },
+            "description": {
+                "fr": "Donnez-lui des petites calebasses, une marmite en plastique, des feuilles et des cailloux propres. Faites semblant ensemble de préparer la pâte ou la sauce, puis de servir la poupée ou les autres enfants."
+            },
+            "materials": {
+                "fr": [
+                    "Petites calebasses, bols, cuillères",
+                    "Feuilles, gros cailloux, sable"
+                ]
+            },
+            "parentTip": {
+                "fr": "Entrez dans son jeu : « Hmm, c’est bon ! Il y a du piment ? ». Faire semblant développe la pensée et le langage."
+            },
+            "duration": {
+                "fr": "15 à 20 minutes"
+            },
+            "safety": {
+                "fr": "Gros cailloux uniquement (plus gros qu’une noix), sous surveillance."
+            }
+        },
+        {
+            "id": "act_30m_colors",
+            "ageBracket": "30m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_30m_cog_3",
+                "m_30m_cog_4"
+            ],
+            "title": {
+                "fr": "La chasse aux couleurs"
+            },
+            "description": {
+                "fr": "Choisissez une couleur du jour. Cherchez ensemble tout ce qui est rouge dans la cour ou au marché. Donnez des consignes en 2 étapes : « Prends le bouchon rouge et mets-le dans le panier »."
+            },
+            "materials": {
+                "fr": [
+                    "Objets de couleurs différentes, un panier"
+                ]
+            },
+            "parentTip": {
+                "fr": "Une seule couleur à la fois, pendant plusieurs jours, avant de passer à la suivante."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            }
+        },
+        {
+            "id": "act_30m_tidy_song",
+            "ageBracket": "30m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_30m_soc_2",
+                "m_30m_soc_3"
+            ],
+            "title": {
+                "fr": "On range en chanson"
+            },
+            "description": {
+                "fr": "Chaque jour au même moment, lancez une petite chanson « c’est l’heure de ranger » et rangez ensemble les jouets dans leur panier. Applaudissez-le quand il vous montre ce qu’il a fait."
+            },
+            "materials": {
+                "fr": [
+                    "Un panier ou un carton pour les jouets"
+                ]
+            },
+            "parentTip": {
+                "fr": "Les routines répétées le rassurent et l’aident à savoir ce qu’on attend de lui."
+            },
+            "duration": {
+                "fr": "5 minutes, chaque jour"
+            }
+        },
+        {
+            "id": "act_8",
+            "ageBracket": "36m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_30m_soc_3"
+            ],
+            "title": {
+                "fr": "Rangement trié des récipients",
+                "fon": "Bló tiitii nú go lɛ",
+                "yoruba": "Atokọ ti awọn ohun elo ninu ile"
+            },
+            "description": {
+                "fr": "Mélangez 3 grands bols et 3 petits bols en plastique. Demandez à l’enfant d’empiler les grands ensemble et les petits ensemble.",
+                "fon": "Sɔ go daho lɛ ɖo kpa ɖokpo bo sɔ go kpɛví lɛ ɖo kpa ɖevo.",
+                "yoruba": "Mu awọn igbá nla ati kekere pọ ki o sọ fun ọmọ rẹ lati pin wọn."
+            },
+            "materials": {
+                "fr": [
+                    "Bols ou boîtes en plastique de différentes tailles"
+                ],
+                "fon": [
+                    "Go daho kpo kpɛví kpo"
+                ],
+                "yoruba": [
+                    "Igbá tabi boṣẹ titobi oriṣiriṣi"
+                ]
+            },
+            "parentTip": {
+                "fr": "Favorise la logique mathématique, le tri par taille et la fierté d’aider.",
+                "fon": "É nɔ kplɔn tamɛ-linlin nú vi.",
+                "yoruba": "O n ṣe iranlọwọ fun ẹkọ ati imọ ti titobi."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            }
+        },
+        {
+            "id": "act_36m_necklace",
+            "ageBracket": "36m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_36m_mf_1"
+            ],
+            "title": {
+                "fr": "Le collier de pâtes"
+            },
+            "description": {
+                "fr": "Enfilez ensemble des pâtes tubes, des bouchons percés ou de grosses perles sur un lacet dont le bout est entouré de scotch pour le rigidifier. Faites un collier pour un proche."
+            },
+            "materials": {
+                "fr": [
+                    "Un lacet ou une ficelle",
+                    "Pâtes tubes, grosses perles ou bouchons percés"
+                ]
+            },
+            "parentTip": {
+                "fr": "Faire un nœud au bout de la ficelle évite que tout glisse et le décourage."
+            },
+            "duration": {
+                "fr": "10 à 15 minutes"
+            },
+            "easier": {
+                "fr": "Utilisez une paille ou un bâtonnet à la place de la ficelle."
+            },
+            "safety": {
+                "fr": "Surveillez : les petites perles ne doivent pas être mises à la bouche."
+            }
+        },
+        {
+            "id": "act_36m_dress_up",
+            "ageBracket": "36m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_36m_mf_2",
+                "m_36m_mf_3"
+            ],
+            "title": {
+                "fr": "Je m’habille tout seul"
+            },
+            "description": {
+                "fr": "Le matin, posez ses vêtements amples au sol dans l’ordre. Laissez-le enfiler seul son pantalon ou sa veste, vous n’aidez que si c’est nécessaire. Au repas, laissez-le se servir de sa cuillère ou de sa fourchette seul."
+            },
+            "materials": {
+                "fr": [
+                    "Vêtements amples",
+                    "Couverts adaptés"
+                ]
+            },
+            "parentTip": {
+                "fr": "Pour un pantalon, faites-le s’asseoir par terre : c’est beaucoup plus facile qu’en étant debout."
+            },
+            "duration": {
+                "fr": "Pendant les routines du matin et des repas"
+            }
+        },
+        {
+            "id": "act_36m_draw_circle",
+            "ageBracket": "36m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_36m_cog_1",
+                "m_36m_cog_2"
+            ],
+            "title": {
+                "fr": "Dessine un soleil avec moi"
+            },
+            "description": {
+                "fr": "Dessinez un rond devant lui en disant « Je fais un soleil », puis laissez-le essayer. Ajoutez des rayons, des yeux… Profitez-en pour parler de ce qui est chaud et de ce qu’on ne touche pas (marmite, fer, feu)."
+            },
+            "materials": {
+                "fr": [
+                    "Craie, crayon, sable ou ardoise"
+                ]
+            },
+            "parentTip": {
+                "fr": "Tous les ronds « tordus » sont une réussite : c’est l’intention qui compte à cet âge."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            }
+        },
+        {
+            "id": "act_36m_tell_me",
+            "ageBracket": "36m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_36m_lang_1",
+                "m_36m_lang_3",
+                "m_36m_lang_4",
+                "m_36m_lang_5"
+            ],
+            "title": {
+                "fr": "Raconte-moi"
+            },
+            "description": {
+                "fr": "Le soir, parlez de la journée : « Qu’est-ce qu’on a vu au marché ? ». Regardez des images ensemble et demandez ce que font les personnages. Répondez patiemment à ses « pourquoi ? » et relancez par une autre question."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel",
+                    "Images ou livre si possible"
+                ]
+            },
+            "parentTip": {
+                "fr": "Laissez-lui le temps de chercher ses mots sans finir ses phrases à sa place."
+            },
+            "duration": {
+                "fr": "10 minutes, chaque soir"
+            }
+        },
+        {
+            "id": "act_36m_group_games",
+            "ageBracket": "36m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_36m_soc_3",
+                "m_36m_soc_2",
+                "m_36m_soc_1"
+            ],
+            "title": {
+                "fr": "Jeux de cour avec les autres enfants"
+            },
+            "description": {
+                "fr": "Organisez avec des enfants du voisinage une ronde chantée, un jeu du foulard ou « chat perché ». Restez à proximité au début pour l’aider à entrer dans le jeu."
+            },
+            "materials": {
+                "fr": [
+                    "Un foulard, des chansons de ronde"
+                ]
+            },
+            "parentTip": {
+                "fr": "S’il reste à regarder au début, c’est normal : il observe avant de participer."
+            },
+            "duration": {
+                "fr": "15 à 30 minutes"
+            }
+        },
+        {
+            "id": "act_36m_stairs",
+            "ageBracket": "36m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_36m_mg_1"
+            ],
+            "title": {
+                "fr": "Un pied, une marche"
+            },
+            "description": {
+                "fr": "Montez des marches ensemble en comptant « un pied… une marche ! ». Dehors, dessinez des cases dans le sable et sautez de l’une à l’autre."
+            },
+            "materials": {
+                "fr": [
+                    "Quelques marches ou des cases dessinées au sol"
+                ]
+            },
+            "parentTip": {
+                "fr": "Tenez-lui la main au début, puis laissez-le utiliser seulement la rampe ou le mur."
+            },
+            "duration": {
+                "fr": "5 à 10 minutes"
+            },
+            "safety": {
+                "fr": "Toujours à côté de lui dans les escaliers."
+            }
+        },
+        {
+            "id": "act_48m_market",
+            "ageBracket": "48m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_48m_soc_1",
+                "m_48m_soc_5",
+                "m_48m_cog_1",
+                "m_48m_lang_2"
+            ],
+            "title": {
+                "fr": "On joue au marché"
+            },
+            "description": {
+                "fr": "Installez un étal avec des fruits, des boîtes vides et des « pièces » (bouchons). Il est le vendeur, vous êtes le client : « Bonjour, je voudrais trois tomates rouges ! ». Puis inversez les rôles."
+            },
+            "materials": {
+                "fr": [
+                    "Fruits, boîtes vides, bouchons comme monnaie",
+                    "Un pagne comme étal"
+                ]
+            },
+            "parentTip": {
+                "fr": "Les jeux de rôle développent le langage, le calcul et la politesse en même temps."
+            },
+            "duration": {
+                "fr": "15 à 20 minutes"
+            }
+        },
+        {
+            "id": "act_48m_evening_tale",
+            "ageBracket": "48m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_48m_lang_1",
+                "m_48m_lang_3",
+                "m_48m_cog_2"
+            ],
+            "title": {
+                "fr": "Le conte du soir"
+            },
+            "description": {
+                "fr": "Racontez un conte de la tradition (la tortue rusée, l’araignée…). Arrêtez-vous et demandez « Et après, qu’est-ce qui se passe ? ». Chantez ensemble les refrains des contes."
+            },
+            "materials": {
+                "fr": [
+                    "Contes et chansons de la famille"
+                ]
+            },
+            "parentTip": {
+                "fr": "Racontez souvent les mêmes contes : c’est en les connaissant bien qu’il pourra les anticiper puis les raconter."
+            },
+            "duration": {
+                "fr": "10 minutes avant de dormir"
+            }
+        },
+        {
+            "id": "act_48m_sort_colors",
+            "ageBracket": "48m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_48m_cog_1",
+                "m_48m_cog_2"
+            ],
+            "title": {
+                "fr": "Trier les couleurs et remettre l’histoire en ordre"
+            },
+            "description": {
+                "fr": "Mélangez des bouchons, des perles de pagne ou des morceaux de tissu de plusieurs couleurs et triez-les ensemble dans des bols en nommant chaque couleur. Un autre jour, dessinez 3 images d’une histoire connue (se lever, se laver, manger) et demandez-lui de les remettre dans l’ordre."
+            },
+            "materials": {
+                "fr": [
+                    "Bouchons ou morceaux de tissu de couleurs différentes",
+                    "3 ou 4 bols",
+                    "Papier et crayon"
+                ]
+            },
+            "parentTip": {
+                "fr": "Demandez-lui d’expliquer son choix : « Pourquoi tu l’as mis là ? ». Réfléchir à voix haute l’aide à organiser sa pensée."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            },
+            "harder": {
+                "fr": "Triez selon deux critères à la fois : la couleur et la taille."
+            }
+        },
+        {
+            "id": "act_48m_riddles",
+            "ageBracket": "48m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_48m_lang_4",
+                "m_48m_lang_2"
+            ],
+            "title": {
+                "fr": "Devinettes : à quoi ça sert ?"
+            },
+            "description": {
+                "fr": "Montrez un objet (seau, balai, cuillère, crayon) et demandez « À quoi ça sert ? ». Inversez : « Je pense à une chose qui sert à porter l’eau… c’est quoi ? »."
+            },
+            "materials": {
+                "fr": [
+                    "Objets de la maison"
+                ]
+            },
+            "parentTip": {
+                "fr": "S’il répond par un seul mot, reformulez en phrase : « Oui, le seau sert à porter l’eau »."
+            },
+            "duration": {
+                "fr": "5 à 10 minutes, en marchant ou pendant les tâches"
+            }
+        },
+        {
+            "id": "act_48m_draw_person",
+            "ageBracket": "48m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_48m_mf_1",
+                "m_48m_mf_4"
+            ],
+            "title": {
+                "fr": "Dessine la famille"
+            },
+            "description": {
+                "fr": "Proposez-lui de dessiner quelqu’un de la famille. Demandez « Il a des yeux ? des bras ? des pieds ? » pour l’aider à ajouter des parties. Montrez comment tenir le crayon avec trois doigts."
+            },
+            "materials": {
+                "fr": [
+                    "Papier ou carton",
+                    "Crayon ou craie"
+                ]
+            },
+            "parentTip": {
+                "fr": "Un crayon court (cassé en deux) oblige naturellement à le tenir du bout des doigts."
+            },
+            "duration": {
+                "fr": "10 à 15 minutes"
+            }
+        },
+        {
+            "id": "act_48m_pour_button",
+            "ageBracket": "48m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_48m_mf_2",
+                "m_48m_mf_3"
+            ],
+            "title": {
+                "fr": "Verser, servir, déboutonner"
+            },
+            "description": {
+                "fr": "Laissez-le verser de l’eau d’une petite cruche dans des gobelets pour toute la famille, et se servir seul au repas. Entraînez-vous à défaire les gros boutons d’une chemise posée sur la table."
+            },
+            "materials": {
+                "fr": [
+                    "Une petite cruche ou bouteille",
+                    "Gobelets",
+                    "Une vieille chemise à gros boutons"
+                ]
+            },
+            "parentTip": {
+                "fr": "Remplissez peu la cruche au début : réussir encourage à recommencer."
+            },
+            "duration": {
+                "fr": "Pendant les repas"
+            }
+        },
+        {
+            "id": "act_48m_catch_hop",
+            "ageBracket": "48m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_48m_mg_1",
+                "m_48m_mg_2"
+            ],
+            "title": {
+                "fr": "Lancer, attraper, cloche-pied"
+            },
+            "description": {
+                "fr": "Lancez-vous un gros ballon (ou le ballon en pagne) à 2 mètres de distance. Ensuite, faites des concours de cloche-pied : qui tient le plus longtemps sur un pied ?"
+            },
+            "materials": {
+                "fr": [
+                    "Un ballon"
+                ]
+            },
+            "parentTip": {
+                "fr": "Pour attraper, apprenez-lui à tendre les bras et à regarder le ballon arriver."
+            },
+            "duration": {
+                "fr": "15 minutes, dehors"
+            }
+        },
+        {
+            "id": "act_60m_awale",
+            "ageBracket": "60m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_60m_soc_1",
+                "m_60m_cog_1",
+                "m_60m_cog_4"
+            ],
+            "title": {
+                "fr": "L’awalé simplifié"
+            },
+            "description": {
+                "fr": "Creusez 2 rangées de 6 trous dans le sable ou utilisez un plateau d’awalé. Jouez avec des graines en expliquant les règles simplement : on distribue une graine par trou, chacun son tour."
+            },
+            "materials": {
+                "fr": [
+                    "Plateau d’awalé ou trous dans le sable",
+                    "Graines ou petits cailloux"
+                ]
+            },
+            "parentTip": {
+                "fr": "Attendre son tour, accepter de perdre, compter : ce jeu traditionnel prépare très bien à l’école."
+            },
+            "duration": {
+                "fr": "15 à 20 minutes"
+            }
+        },
+        {
+            "id": "act_60m_storyteller",
+            "ageBracket": "60m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_60m_lang_2",
+                "m_60m_lang_3",
+                "m_60m_lang_4",
+                "m_60m_soc_2"
+            ],
+            "title": {
+                "fr": "À toi de raconter"
+            },
+            "description": {
+                "fr": "Après un conte, demandez-lui de le raconter à son tour à un frère, une grand-mère, ou à sa poupée. Posez-lui des questions : « Pourquoi la tortue a fait ça ? », « Et à la fin ? »."
+            },
+            "materials": {
+                "fr": [
+                    "Contes connus de la famille"
+                ]
+            },
+            "parentTip": {
+                "fr": "Montrez-vous très intéressé : il sera fier d’être le conteur."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            }
+        },
+        {
+            "id": "act_60m_rhymes",
+            "ageBracket": "60m",
+            "domain": "language",
+            "milestoneIds": [
+                "m_60m_lang_5"
+            ],
+            "title": {
+                "fr": "Le jeu des rimes"
+            },
+            "description": {
+                "fr": "Dites deux mots et demandez s’ils « chantent pareil » : chat / rat (oui), chat / pied (non). Puis cherchez ensemble des mots qui finissent comme « bâton » : ballon, mouton, savon…"
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel"
+                ]
+            },
+            "parentTip": {
+                "fr": "Entendre les sons à l’intérieur des mots est une étape importante avant d’apprendre à lire."
+            },
+            "duration": {
+                "fr": "5 minutes, par exemple en marchant"
+            }
+        },
+        {
+            "id": "act_60m_counting",
+            "ageBracket": "60m",
+            "domain": "cognitive",
+            "milestoneIds": [
+                "m_60m_cog_1",
+                "m_60m_cog_2",
+                "m_60m_cog_3"
+            ],
+            "title": {
+                "fr": "Compter au quotidien"
+            },
+            "description": {
+                "fr": "Comptez tout ce que vous faites : les marches, les tomates au marché, les assiettes à poser sur la table. Écrivez les chiffres 1 à 5 dans le sable et demandez-lui de les montrer. Parlez de ce que vous avez fait hier et ferez demain."
+            },
+            "materials": {
+                "fr": [
+                    "Objets du quotidien",
+                    "Sable, craie ou papier"
+                ]
+            },
+            "parentTip": {
+                "fr": "Toucher chaque objet en comptant l’aide à comprendre qu’un nombre correspond à une quantité."
+            },
+            "duration": {
+                "fr": "Quelques minutes, plusieurs fois par jour"
+            }
+        },
+        {
+            "id": "act_60m_write_name",
+            "ageBracket": "60m",
+            "domain": "motor_fine",
+            "milestoneIds": [
+                "m_60m_mf_1",
+                "m_60m_cog_5",
+                "m_60m_mf_2"
+            ],
+            "title": {
+                "fr": "J’écris mon prénom"
+            },
+            "description": {
+                "fr": "Écrivez son prénom en grandes lettres. Il le repasse avec le doigt dans le sable, puis avec un crayon. Cherchez ensemble la première lettre de son prénom sur les emballages et les panneaux."
+            },
+            "materials": {
+                "fr": [
+                    "Sable, craie, crayon et papier"
+                ]
+            },
+            "parentTip": {
+                "fr": "Commencez par la première lettre seulement : chaque lettre réussie est une victoire."
+            },
+            "duration": {
+                "fr": "10 minutes"
+            }
+        },
+        {
+            "id": "act_60m_heron",
+            "ageBracket": "60m",
+            "domain": "motor_gross",
+            "milestoneIds": [
+                "m_60m_mg_1",
+                "m_48m_mg_1"
+            ],
+            "title": {
+                "fr": "Le héron sur une patte"
+            },
+            "description": {
+                "fr": "Faites le héron : tenir sur un pied en comptant jusqu’à 5, puis sur l’autre pied. Ajoutez des sauts à cloche-pied jusqu’à un arbre et retour."
+            },
+            "materials": {
+                "fr": [
+                    "Aucun matériel"
+                ]
+            },
+            "parentTip": {
+                "fr": "Fixer un point devant soi avec les yeux aide beaucoup à garder l’équilibre."
+            },
+            "duration": {
+                "fr": "5 à 10 minutes"
+            }
+        },
+        {
+            "id": "act_60m_chores",
+            "ageBracket": "60m",
+            "domain": "social_personal",
+            "milestoneIds": [
+                "m_60m_soc_3",
+                "m_60m_soc_4"
+            ],
+            "title": {
+                "fr": "Mes petites responsabilités"
+            },
+            "description": {
+                "fr": "Confiez-lui une ou deux tâches régulières adaptées : mettre les assiettes, trier les chaussettes, arroser une plante. Encouragez aussi l’autonomie aux toilettes (y aller seul, se laver les mains)."
+            },
+            "materials": {
+                "fr": [
+                    "Objets de la maison"
+                ]
+            },
+            "parentTip": {
+                "fr": "Une tâche fixe, chaque jour, lui donne une place et une fierté dans la famille."
+            },
+            "duration": {
+                "fr": "5 à 10 minutes par jour"
+            }
+        }
+    ],
+    "redFlags": [
+        {
+            "id": "rf_regression",
+            "urgency": "urgent",
+            "text": {
+                "fr": "Perd une compétence qu’il avait déjà (ne dit plus des mots, ne sourit plus, ne marche plus, ne joue plus comme avant)"
+            },
+            "detail": {
+                "fr": "La perte d’un acquis, à tout âge, justifie de consulter rapidement, sans attendre la prochaine visite."
+            }
+        },
+        {
+            "id": "rf_seizures",
+            "urgency": "urgent",
+            "text": {
+                "fr": "Convulsions, raideurs ou secousses inhabituelles, moments où il « s’absente » et ne répond plus"
+            },
+            "detail": {
+                "fr": "Rendez-vous au centre de santé ou aux urgences sans attendre."
+            }
+        },
+        {
+            "id": "rf_white_pupil",
+            "urgency": "urgent",
+            "text": {
+                "fr": "Reflet blanc dans la pupille (sur une photo au flash ou à la lumière)"
+            },
+            "detail": {
+                "fr": "Ce signe peut révéler une maladie grave de l’œil : consultez sans attendre."
+            }
+        },
+        {
+            "id": "rf_hearing",
+            "urgency": "consult",
+            "text": {
+                "fr": "Ne semble pas entendre : ne sursaute pas aux bruits forts, ne se tourne pas vers les voix"
+            }
+        },
+        {
+            "id": "rf_vision",
+            "urgency": "consult",
+            "fromMonths": 4,
+            "text": {
+                "fr": "Ne suit pas les objets ou les visages du regard, ou un œil dévie de façon permanente"
+            }
+        },
+        {
+            "id": "rf_asymmetry",
+            "urgency": "consult",
+            "toMonths": 18,
+            "text": {
+                "fr": "Utilise nettement plus un côté du corps que l’autre (une seule main, un bras ou une jambe qui bouge moins)"
+            },
+            "detail": {
+                "fr": "Avant 18 mois, un enfant n’a normalement pas encore de main préférée."
+            }
+        },
+        {
+            "id": "rf_tone",
+            "urgency": "consult",
+            "text": {
+                "fr": "Paraît très mou (« comme une poupée de chiffon ») ou au contraire très raide"
+            }
+        },
+        {
+            "id": "rf_feeding",
+            "urgency": "consult",
+            "text": {
+                "fr": "Grandes difficultés à téter, mâcher ou avaler, s’étouffe souvent en mangeant"
+            }
+        },
+        {
+            "id": "rf_head_growth",
+            "urgency": "consult",
+            "toMonths": 24,
+            "text": {
+                "fr": "Le tour de tête noté dans le carnet de santé augmente beaucoup trop vite ou presque plus"
+            }
+        },
+        {
+            "id": "rf_social_communication",
+            "urgency": "consult",
+            "fromMonths": 12,
+            "toMonths": 36,
+            "text": {
+                "fr": "Regarde peu dans les yeux, ne répond pas à son prénom, ne pointe pas pour montrer, ne partage pas son intérêt avec vous"
+            },
+            "detail": {
+                "fr": "Un professionnel peut faire passer le questionnaire M-CHAT-R/F (repérage des troubles du spectre de l’autisme, de 16 à 30 mois)."
+            }
+        },
+        {
+            "id": "rf_parent_concern",
+            "urgency": "consult",
+            "text": {
+                "fr": "Vous êtes inquiet pour son développement, même sans pouvoir dire exactement pourquoi"
+            },
+            "detail": {
+                "fr": "Votre inquiétude est une raison suffisante pour en parler à un soignant : vous êtes la personne qui connaît le mieux votre enfant."
+            }
+        }
+    ]
+}
