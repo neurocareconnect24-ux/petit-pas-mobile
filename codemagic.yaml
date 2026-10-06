@@ -2,6 +2,8 @@ workflows:
   ios-workflow:
     name: iOS Release Build
     max_build_duration: 120
+    integrations:
+      app_store_connect: PetitPas
     environment:
       flutter: stable
       xcode: latest
